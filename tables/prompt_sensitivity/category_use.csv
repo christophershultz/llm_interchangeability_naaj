@@ -1,0 +1,61 @@
+variant,model,label,modal_share
+reference,GPT-5.6 Sol,negligible,0.019
+reference,GPT-5.6 Sol,low,0.398
+reference,GPT-5.6 Sol,medium,0.442
+reference,GPT-5.6 Sol,high,0.141
+reference,GPT-5.6 Sol,catastrophic,0.0
+reference,Gemini 3.1 Pro,negligible,0.185
+reference,Gemini 3.1 Pro,low,0.417
+reference,Gemini 3.1 Pro,medium,0.3
+reference,Gemini 3.1 Pro,high,0.093
+reference,Gemini 3.1 Pro,catastrophic,0.005
+reference,Kimi K2.6,negligible,0.072
+reference,Kimi K2.6,low,0.497
+reference,Kimi K2.6,medium,0.361
+reference,Kimi K2.6,high,0.069
+reference,Kimi K2.6,catastrophic,0.001
+reference,DeepSeek V4 Pro,negligible,0.059
+reference,DeepSeek V4 Pro,low,0.442
+reference,DeepSeek V4 Pro,medium,0.398
+reference,DeepSeek V4 Pro,high,0.097
+reference,DeepSeek V4 Pro,catastrophic,0.004
+reference,Qwen3.5 397B,negligible,0.086
+reference,Qwen3.5 397B,low,0.501
+reference,Qwen3.5 397B,medium,0.357
+reference,Qwen3.5 397B,high,0.056
+reference,Qwen3.5 397B,catastrophic,0.0
+reference,GLM-5.2,negligible,0.019
+reference,GLM-5.2,low,0.414
+reference,GLM-5.2,medium,0.444
+reference,GLM-5.2,high,0.12
+reference,GLM-5.2,catastrophic,0.003
+anchored_fewshot,GPT-5.6 Sol,negligible,0.06
+anchored_fewshot,GPT-5.6 Sol,low,0.243
+anchored_fewshot,GPT-5.6 Sol,medium,0.257
+anchored_fewshot,GPT-5.6 Sol,high,0.315
+anchored_fewshot,GPT-5.6 Sol,catastrophic,0.125
+anchored_fewshot,Gemini 3.1 Pro,negligible,0.181
+anchored_fewshot,Gemini 3.1 Pro,low,0.236
+anchored_fewshot,Gemini 3.1 Pro,medium,0.181
+anchored_fewshot,Gemini 3.1 Pro,high,0.25
+anchored_fewshot,Gemini 3.1 Pro,catastrophic,0.152
+anchored_fewshot,Kimi K2.6,negligible,0.235
+anchored_fewshot,Kimi K2.6,low,0.299
+anchored_fewshot,Kimi K2.6,medium,0.266
+anchored_fewshot,Kimi K2.6,high,0.16
+anchored_fewshot,Kimi K2.6,catastrophic,0.04
+anchored_fewshot,DeepSeek V4 Pro,negligible,0.155
+anchored_fewshot,DeepSeek V4 Pro,low,0.23
+anchored_fewshot,DeepSeek V4 Pro,medium,0.326
+anchored_fewshot,DeepSeek V4 Pro,high,0.235
+anchored_fewshot,DeepSeek V4 Pro,catastrophic,0.054
+anchored_fewshot,Qwen3.5 397B,negligible,0.161
+anchored_fewshot,Qwen3.5 397B,low,0.312
+anchored_fewshot,Qwen3.5 397B,medium,0.326
+anchored_fewshot,Qwen3.5 397B,high,0.177
+anchored_fewshot,Qwen3.5 397B,catastrophic,0.024
+anchored_fewshot,GLM-5.2,negligible,0.149
+anchored_fewshot,GLM-5.2,low,0.351
+anchored_fewshot,GLM-5.2,medium,0.27
+anchored_fewshot,GLM-5.2,high,0.185
+anchored_fewshot,GLM-5.2,catastrophic,0.045

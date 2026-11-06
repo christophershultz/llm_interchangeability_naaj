@@ -1,0 +1,7 @@
+model,fixed_batch_rerun_distance,randomized_batch_operational_distance,increment_associated_with_randomized_batching,fixed_vs_randomized_modal_shift,fixed_vs_randomized_modal_disagreement,fixed_vs_randomized_modal_two_plus
+GPT-5.6 Sol,0.13419999999999999,0.2796,0.14540000000000003,0.183,0.183,0.0
+Gemini 3.1 Pro,0.08180000000000001,0.2574,0.1756,0.169,0.169,0.0
+Kimi K2.6,0.1182,0.2984,0.1802,0.202,0.201,0.001
+DeepSeek V4 Pro,0.1134,0.3416,0.22820000000000001,0.222,0.219,0.003
+Qwen3.5 397B,0.056600000000000004,0.35040000000000004,0.29380000000000006,0.206,0.204,0.002
+GLM-5.2,0.1284,0.32180000000000003,0.19340000000000004,0.204,0.204,0.0

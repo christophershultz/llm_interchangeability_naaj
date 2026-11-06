@@ -1,0 +1,7 @@
+model,provider,returned_model,classifications,runs,experiment
+DeepSeek V4 Pro,DeepInfra,deepseek-ai/DeepSeek-V4-Pro,5000,5,fixed_batch
+GLM-5.2,DeepInfra,zai-org/GLM-5.2,5000,5,fixed_batch
+GPT-5.6 Sol,OpenAI,gpt-5.6-sol,5000,5,fixed_batch
+Gemini 3.1 Pro,Google,gemini-3.1-pro-preview,5000,5,fixed_batch
+Kimi K2.6,DeepInfra,moonshotai/Kimi-K2.6,5000,5,fixed_batch
+Qwen3.5 397B,DeepInfra,Qwen/Qwen3.5-397B-A17B,5000,5,fixed_batch

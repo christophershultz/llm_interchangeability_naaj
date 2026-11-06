@@ -1,0 +1,1 @@
+{"event": "scheduler_restart", "timestamp_utc": "2026-11-04T15:55:49.957548+00:00", "saved_successes": 2241, "reason": "Isolate model queues; slow Kimi requests were blocking faster models. Preserve all frozen inference settings and saved results. In-flight calls without saved responses may need technical retry."}

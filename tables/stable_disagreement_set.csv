@@ -1,0 +1,12 @@
+description_id,stable_model_count,stable_spread,Description,median_loss,max_loss,GPT-5.6 Sol,Gemini 3.1 Pro,Kimi K2.6,DeepSeek V4 Pro,Qwen3.5 397B,GLM-5.2
+d_73ec8a0aaa6be07e,5,2,King Park community center 2039-088,145012.6,145012.6,medium (4/5),low (2/5),low (4/5),negligible (4/5),negligible (4/5),low (5/5)
+d_82717954953f3e60,5,2,power outage at Riverside Pumping Station,50303.11,50303.11,medium (5/5),medium (5/5),medium (5/5),medium (2/5),negligible (4/5),medium (4/5)
+d_71222ab899d1cbce,5,2,surveillance system missing,13905.0,13905.0,medium (5/5),low (3/5),low (4/5),high (4/5),medium (4/5),medium (5/5)
+d_41d685d7f73063d8,4,2,fire damage to camera,9199.0,9199.0,low (3/5),negligible (4/5),low (3/5),medium (4/5),low (5/5),low (4/5)
+d_a4e7d25ae44f5e43,3,2,Claimant vs Fire Department,7111.0,7111.0,medium (4/5),medium (4/5),medium (2/5),medium (3/5),negligible (4/5),medium (3/5)
+d_a28cea44652b2d78,5,2,"winter glove flushed, got caught in grinder pipe",4118.0,4118.0,medium (4/5),low (5/5),negligible (4/5),negligible (4/5),low (2/5),low (4/5)
+d_8eb429fb232cd08b,3,2,Greenfield Pool 2027-999,3427.08,3427.08,medium (4/5),low (4/5),low (3/5),medium (2/5),negligible (5/5),low (3/5)
+d_21e536a41362c4fd,4,2,tornado damage to sidewalk,3400.0,3400.0,medium (5/5),low (5/5),medium (5/5),high (4/5),medium (3/5),high (3/5)
+d_462d1dc707f445aa,3,2,Forestville Tower Building,2795.75,2795.75,medium (4/5),medium (4/5),medium (3/5),high (2/5),negligible (5/5),low (2/5)
+d_4211c6b21fd8e4f3,3,2,Memorial H.S. 11M-005150,1329.78,1329.78,medium (5/5),low (3/5),low (3/5),medium (3/5),negligible (5/5),low (4/5)
+d_d17b16757caf1c95,5,2,power surge damaged projector,956.99,956.99,medium (4/5),negligible (4/5),low (4/5),low (5/5),low (3/5),medium (4/5)

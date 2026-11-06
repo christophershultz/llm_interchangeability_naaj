@@ -1,0 +1,10 @@
+claim_type,train,validation
+Fire,30,12
+Hail,15,5
+Lightning,142,24
+Misc,85,21
+Vandalism,401,74
+Vehicle,211,34
+WaterNW,40,15
+WaterW,105,11
+Wind,52,24

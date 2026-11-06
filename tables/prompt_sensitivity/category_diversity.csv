@@ -1,0 +1,13 @@
+variant,model,modal_entropy_bits
+reference,GPT-5.6 Sol,1.556767390991044
+reference,Gemini 3.1 Pro,1.8545539072838968
+reference,Kimi K2.6,1.5813781176778219
+reference,DeepSeek V4 Pro,1.6488872688302019
+reference,Qwen3.5 397B,1.5673300224732927
+reference,GLM-5.2,1.5476676578673054
+anchored_fewshot,GPT-5.6 Sol,2.143222340031791
+anchored_fewshot,Gemini 3.1 Pro,2.2974052606796254
+anchored_fewshot,Kimi K2.6,2.12873555481329
+anchored_fewshot,DeepSeek V4 Pro,2.1500915042884405
+anchored_fewshot,Qwen3.5 397B,2.0469705143392827
+anchored_fewshot,GLM-5.2,2.101129150052247

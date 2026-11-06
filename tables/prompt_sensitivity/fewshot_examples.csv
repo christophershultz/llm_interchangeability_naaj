@@ -1,0 +1,6 @@
+description_id,Description,observed_training_loss,source_claims,level,label
+d_346c8b200ecd6563,debris from lawn mower broke window,292.1,1,1,negligible
+d_b578a96656a8dc82,wind damage to roof shingles and chimney flashing,960.0,1,2,low
+d_66921d1c34b01042,water damage to motors at wastewater plant,2250.31,1,3,medium
+d_4761c98b1cff6bb0,radiator coil break - water damage to walls,5052.42,1,4,high
+d_ed757174b5a49d56,Well #6 damaged by power surge,22400.5,1,5,catastrophic

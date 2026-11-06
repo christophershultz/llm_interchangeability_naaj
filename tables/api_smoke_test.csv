@@ -1,0 +1,31 @@
+description_id,model,provider,model_id,returned_model,run,batch_id,position_in_batch,label,label_value,timestamp_utc
+d_00032fbe17cf579f,GPT-5.6 Sol,OpenAI,gpt-5.6-sol,gpt-5.6-sol,0,0,0,low,2,2026-08-12T14:55:16.902391+00:00
+d_0003755686a0409c,GPT-5.6 Sol,OpenAI,gpt-5.6-sol,gpt-5.6-sol,0,0,1,medium,3,2026-08-12T14:55:16.902558+00:00
+d_001c0c7d23a3d5f8,GPT-5.6 Sol,OpenAI,gpt-5.6-sol,gpt-5.6-sol,0,0,2,low,2,2026-08-12T14:55:16.902700+00:00
+d_001c9a661e2df3b9,GPT-5.6 Sol,OpenAI,gpt-5.6-sol,gpt-5.6-sol,0,0,3,high,4,2026-08-12T14:55:16.902786+00:00
+d_00281de012e7816a,GPT-5.6 Sol,OpenAI,gpt-5.6-sol,gpt-5.6-sol,0,0,4,negligible,1,2026-08-12T14:55:16.902844+00:00
+d_00032fbe17cf579f,Gemini 3.1 Pro,Google,gemini-3.1-pro-preview,gemini-3.1-pro-preview,0,0,0,negligible,1,2026-08-12T14:55:23.850078+00:00
+d_0003755686a0409c,Gemini 3.1 Pro,Google,gemini-3.1-pro-preview,gemini-3.1-pro-preview,0,0,1,medium,3,2026-08-12T14:55:23.850153+00:00
+d_001c0c7d23a3d5f8,Gemini 3.1 Pro,Google,gemini-3.1-pro-preview,gemini-3.1-pro-preview,0,0,2,negligible,1,2026-08-12T14:55:23.850203+00:00
+d_001c9a661e2df3b9,Gemini 3.1 Pro,Google,gemini-3.1-pro-preview,gemini-3.1-pro-preview,0,0,3,high,4,2026-08-12T14:55:23.850241+00:00
+d_00281de012e7816a,Gemini 3.1 Pro,Google,gemini-3.1-pro-preview,gemini-3.1-pro-preview,0,0,4,low,2,2026-08-12T14:55:23.850278+00:00
+d_00032fbe17cf579f,Kimi K2.6,DeepInfra,moonshotai/Kimi-K2.6,moonshotai/Kimi-K2.6,0,0,0,low,2,2026-08-12T14:55:25.737072+00:00
+d_0003755686a0409c,Kimi K2.6,DeepInfra,moonshotai/Kimi-K2.6,moonshotai/Kimi-K2.6,0,0,1,medium,3,2026-08-12T14:55:25.737134+00:00
+d_001c0c7d23a3d5f8,Kimi K2.6,DeepInfra,moonshotai/Kimi-K2.6,moonshotai/Kimi-K2.6,0,0,2,low,2,2026-08-12T14:55:25.737178+00:00
+d_001c9a661e2df3b9,Kimi K2.6,DeepInfra,moonshotai/Kimi-K2.6,moonshotai/Kimi-K2.6,0,0,3,medium,3,2026-08-12T14:55:25.737212+00:00
+d_00281de012e7816a,Kimi K2.6,DeepInfra,moonshotai/Kimi-K2.6,moonshotai/Kimi-K2.6,0,0,4,negligible,1,2026-08-12T14:55:25.737247+00:00
+d_00032fbe17cf579f,DeepSeek V4 Pro,DeepInfra,deepseek-ai/DeepSeek-V4-Pro,deepseek-ai/DeepSeek-V4-Pro,0,0,0,low,2,2026-08-12T14:55:28.323029+00:00
+d_0003755686a0409c,DeepSeek V4 Pro,DeepInfra,deepseek-ai/DeepSeek-V4-Pro,deepseek-ai/DeepSeek-V4-Pro,0,0,1,medium,3,2026-08-12T14:55:28.323141+00:00
+d_001c0c7d23a3d5f8,DeepSeek V4 Pro,DeepInfra,deepseek-ai/DeepSeek-V4-Pro,deepseek-ai/DeepSeek-V4-Pro,0,0,2,low,2,2026-08-12T14:55:28.323195+00:00
+d_001c9a661e2df3b9,DeepSeek V4 Pro,DeepInfra,deepseek-ai/DeepSeek-V4-Pro,deepseek-ai/DeepSeek-V4-Pro,0,0,3,high,4,2026-08-12T14:55:28.323234+00:00
+d_00281de012e7816a,DeepSeek V4 Pro,DeepInfra,deepseek-ai/DeepSeek-V4-Pro,deepseek-ai/DeepSeek-V4-Pro,0,0,4,negligible,1,2026-08-12T14:55:28.323274+00:00
+d_00032fbe17cf579f,Qwen3.5 397B,DeepInfra,Qwen/Qwen3.5-397B-A17B,Qwen/Qwen3.5-397B-A17B,0,0,0,negligible,1,2026-08-12T14:55:30.321953+00:00
+d_0003755686a0409c,Qwen3.5 397B,DeepInfra,Qwen/Qwen3.5-397B-A17B,Qwen/Qwen3.5-397B-A17B,0,0,1,low,2,2026-08-12T14:55:30.322023+00:00
+d_001c0c7d23a3d5f8,Qwen3.5 397B,DeepInfra,Qwen/Qwen3.5-397B-A17B,Qwen/Qwen3.5-397B-A17B,0,0,2,medium,3,2026-08-12T14:55:30.322068+00:00
+d_001c9a661e2df3b9,Qwen3.5 397B,DeepInfra,Qwen/Qwen3.5-397B-A17B,Qwen/Qwen3.5-397B-A17B,0,0,3,high,4,2026-08-12T14:55:30.322104+00:00
+d_00281de012e7816a,Qwen3.5 397B,DeepInfra,Qwen/Qwen3.5-397B-A17B,Qwen/Qwen3.5-397B-A17B,0,0,4,catastrophic,5,2026-08-12T14:55:30.322159+00:00
+d_00032fbe17cf579f,GLM-5.2,DeepInfra,zai-org/GLM-5.2,zai-org/GLM-5.2,0,0,0,negligible,1,2026-08-12T14:55:32.978591+00:00
+d_0003755686a0409c,GLM-5.2,DeepInfra,zai-org/GLM-5.2,zai-org/GLM-5.2,0,0,1,medium,3,2026-08-12T14:55:32.978720+00:00
+d_001c0c7d23a3d5f8,GLM-5.2,DeepInfra,zai-org/GLM-5.2,zai-org/GLM-5.2,0,0,2,low,2,2026-08-12T14:55:32.978792+00:00
+d_001c9a661e2df3b9,GLM-5.2,DeepInfra,zai-org/GLM-5.2,zai-org/GLM-5.2,0,0,3,high,4,2026-08-12T14:55:32.978840+00:00
+d_00281de012e7816a,GLM-5.2,DeepInfra,zai-org/GLM-5.2,zai-org/GLM-5.2,0,0,4,negligible,1,2026-08-12T14:55:32.978890+00:00

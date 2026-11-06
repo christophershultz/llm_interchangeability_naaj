@@ -1,0 +1,4 @@
+split,claims,unique_descriptions,median_loss,mean_loss,empty_descriptions
+train,4991,3733,2243.28,19297.054259667402,0
+validation,1039,996,3240.0,21488.372983638114,0
+combined,6030,4690,2392.01,19674.629741293535,0

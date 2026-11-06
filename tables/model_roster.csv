@@ -1,0 +1,7 @@
+model,provider,model_id,license,artifact_revision,endpoint,temperature,reasoning,freeze_date,runs,batch_size
+GPT-5.6 Sol,OpenAI,gpt-5.6-sol,proprietary,provider endpoint,https://api.openai.com/v1/responses,,none,2026-08-12,5,20
+Gemini 3.1 Pro,Google,gemini-3.1-pro-preview,proprietary,provider preview endpoint,Google generateContent v1beta,0.1,low,2026-08-12,5,20
+Kimi K2.6,DeepInfra,moonshotai/Kimi-K2.6,Modified MIT,7eb5002f6aadc958aed6a9177b7ed26bb94011bb,DeepInfra OpenAI-compatible chat,0.1,none,2026-08-12,5,20
+DeepSeek V4 Pro,DeepInfra,deepseek-ai/DeepSeek-V4-Pro,MIT,b5968e9190ef611bbf34a7229255be88a0e937c1,DeepInfra OpenAI-compatible chat,0.1,none,2026-08-12,5,20
+Qwen3.5 397B,DeepInfra,Qwen/Qwen3.5-397B-A17B,Apache-2.0,8472618112abcbd45acbcdc58436aff4233c23f7,DeepInfra OpenAI-compatible chat,0.1,none,2026-08-12,5,20
+GLM-5.2,DeepInfra,zai-org/GLM-5.2,MIT,b4734de4facf877f85769a911abafc5283eab3d9,DeepInfra OpenAI-compatible chat,0.1,none,2026-08-12,5,20

@@ -1,0 +1,25 @@
+scheme,model,mean_ordinal_label
+full_description,GPT-5.6 Sol,2.6974413646055435
+full_description,Gemini 3.1 Pro,2.3183368869936034
+full_description,Kimi K2.6,2.4714285714285715
+full_description,DeepSeek V4 Pro,2.5409381663113004
+full_description,Qwen3.5 397B,2.3923240938166312
+full_description,GLM-5.2,2.6699360341151386
+validation_description,GPT-5.6 Sol,2.7670682730923697
+validation_description,Gemini 3.1 Pro,2.3082329317269075
+validation_description,Kimi K2.6,2.5120481927710845
+validation_description,DeepSeek V4 Pro,2.5431726907630523
+validation_description,Qwen3.5 397B,2.4417670682730925
+validation_description,GLM-5.2,2.708835341365462
+validation_claim,GPT-5.6 Sol,2.7728585178055822
+validation_claim,Gemini 3.1 Pro,2.3137632338787295
+validation_claim,Kimi K2.6,2.5206929740134747
+validation_claim,DeepSeek V4 Pro,2.5466794995187683
+validation_claim,Qwen3.5 397B,2.451395572666025
+validation_claim,GLM-5.2,2.712223291626564
+validation_loss,GPT-5.6 Sol,3.6031872791740915
+validation_loss,Gemini 3.1 Pro,3.542706641954783
+validation_loss,Kimi K2.6,3.4433538766347813
+validation_loss,DeepSeek V4 Pro,3.5016026526309743
+validation_loss,Qwen3.5 397B,3.1835802043624857
+validation_loss,GLM-5.2,3.5197128722054427

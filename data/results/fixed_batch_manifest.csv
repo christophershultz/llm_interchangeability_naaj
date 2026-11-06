@@ -1,0 +1,1001 @@
+fixed_position,description_id,Description,batch_id,position_in_batch
+0,d_7da14eb483cc0e7e,lightning damage to elevator at sheriff's dept.,0,0
+1,d_3d94c0c4ffa6e493,"Hoyt - llm 8811 - graffiti on doors, windows,signs",0,1
+2,d_0dac47769e6331ae,lightning damage at Orchard Manor,0,2
+3,d_112242a3679a1bab,rack on truck struck overhead door,0,3
+4,d_aadca31a4abfd7a7,Water damage to classrooms,0,4
+5,d_50fab19c8bf667ef,tusks broken off elephant statue,0,5
+6,d_25dddcd41ba839eb,Wind damaged new shed construction,0,6
+7,d_caa2ffcd57e8f2ce,theft of copper tubing,0,7
+8,d_e550684fc809b2fe,"rock thrown, hit and broke window",0,8
+9,d_7717c554784d6c35,garage door/frame damaged,0,9
+10,d_fb232023a2594c59,water damage to school,0,10
+11,d_cdd07d3691be4e90,Leopold - 12M10730 - slide paint,0,11
+12,d_b71eb9753785b7b7,water damage to home from hydrant,0,12
+13,d_5e3b15f970a684e2,water damage at senior center,0,13
+14,d_d671318d7768e9d1,water damage at Lakefront Center,0,14
+15,d_ad23d698c7d4a9a2,fire damage at Dunwood Center,0,15
+16,d_43f9203cfbe731fd,glass vandalism at Mahone,0,16
+17,d_cb92c1c53e316ff4,garage door damaged,0,17
+18,d_b2f632f4cf548932,West - 12M9945 - glass,0,18
+19,d_5a4c52df982e1cda,Wind damaged roofs,0,19
+20,d_9a894c7d96f9a5c4,graffiti on parking lot sign,1,0
+21,d_2c6ee8fcddb77eeb,smoke & water damage at PW,1,1
+22,d_5aba9d2d631ca53e,traffic signals knocked down,1,2
+23,d_01012f83bc7f62b6,vehicle damaged light pole on Williams Dr,1,3
+24,d_bbec4a926ec73e08,water damage-Parks Admin,1,4
+25,d_ddbe6473f53c372d,water damage to taser,1,5
+26,d_759cad839d3db91f,Break in at Administrative Center,1,6
+27,d_d0ebcc1d66d3cdcc,"vandalism to parking meters, coin vaults, locks",1,7
+28,d_e8f6bd7c9006c5a4,vandalism damage at Pulaski Park,1,8
+29,d_697b963c1b559218,vehicle damaged overhead door,1,9
+30,d_79ac592bca12da7a,Lightning damaged electronics in village hall,1,10
+31,d_8e8ce76ba3c123f8,electrical fire in control panel,1,11
+32,d_457ec80cca967e96,Damaged city pole lights,1,12
+33,d_b6e58ceea150659b,wind damaged high jump and pole vault pits,1,13
+34,d_98d78b173530e5f0,Water damage at GMIA,1,14
+35,d_799c5ec37b154fd2,vandalism at Village Park,1,15
+36,d_57a4bfc7031324cb,lightning strike to equipment,1,16
+37,d_d7fb2514ab9a72f0,vandalism at Riverside Park,1,17
+38,d_98f1de66a255cf4d,Doyle - 12M - glass,1,18
+39,d_98555dc57e8dc0ca,Electrical outage damaged pump control,1,19
+40,d_a786684c13ff1d80,power outage caused damage to equipment,2,0
+41,d_6dbbe90cc7b95d01,laptop & printer stolen,2,1
+42,d_52755fba194212f5,light pole knocked down by truck,2,2
+43,d_dfaa507170b4f990,truck hit light pole and traffic signal pole,2,3
+44,d_e9128df6ccf63ea9,Wind blew sign over,2,4
+45,d_2b15764b5525bf91,lightning damage at John Hustis ES,2,5
+46,d_e3c1a3af19ef5036,hail damage at senior center,2,6
+47,d_2010e88180b4378b,fire caused smoke damage,2,7
+48,d_e6c7439b6253be05,vandalism damage at Smith Pavilion,2,8
+49,d_987ab2892b47144c,burn hole in plastic slide tube,2,9
+50,d_06a1a9d11a494181,water damage at Franklin Elementary,2,10
+51,d_4105ac8412e1d0de,fire damage to thermal imaging camera,2,11
+52,d_60474f92c4cf1544,roof damaged at City Hall,2,12
+53,d_7fbde342b392f95e,graffiti at Mitchell Park,2,13
+54,d_58913252b81d0f5c,overhead door damaged by loader,2,14
+55,d_491288ceaf9c9865,vehicle hit/damaged fire hydrant,2,15
+56,d_5dfb8b5cc278b438,vandalism damage at Bradford HS,2,16
+57,d_2fbc327f10bcd4bc,lightning damage to antennas,2,17
+58,d_b61531d57d541d9f,fire and vandalism damage at park,2,18
+59,d_0465e978dc6cc85d,vandalism to fire hydrant,2,19
+60,d_2f622b97fa0608a2,Paint dmg to shed trash can and field sign,3,0
+61,d_b9111a7efcf146d5,frozen pipes & water dmg at ES,3,1
+62,d_d2f47b8f4d1b767a,"West HS-llM8685-cafe doors, glass broken",3,2
+63,d_e87893e4029aead1,graffiti at Jackson Park,3,3
+64,d_aeb3dcd6fbea27be,glass door kicked by student - Marquette/O'Keefe,3,4
+65,d_0ea1740063a96cef,"water damage to carpet, floor, monitor",3,5
+66,d_ccbf189d64b1d33f,urinal in men's restroom smashed by rock,3,6
+67,d_a4f1ff2e7349802d,East-12M4257-graffiti on football shed,3,7
+68,d_8841c453c45f9434,cable damaged by animal,3,8
+69,d_f6c7ae6e4d31cf5f,power surge damage to Well #4,3,9
+70,d_0d213db1fd03ad13,fire loss at Minooka Park,3,10
+71,d_8cac2c9e87eebe47,Glass vandalism at Glendale,3,11
+72,d_e38d86b47600e8dc,Hamilton - 12M8347 - glass,3,12
+73,d_3377112bcea39500,Mower and building fire damage,3,13
+74,d_e4f0d55db29f61da,tree pruner fell of vehicle and was run over,3,14
+75,d_2815941faf3bb418,water damage at Willow Glen ES,3,15
+76,d_bb502982f62696d2,lightning damage at 1st Street,3,16
+77,d_0e60744b7a3bae98,damaged overhead door at garage,3,17
+78,d_4a1a2d69db2e5267,door glass broke at Jefferson MS,3,18
+79,d_ba9085d204a4a4c8,"Baran 2003 score booth into, door/windows damaged",3,19
+80,d_5a3dc908ccd62c2b,water damage from plumbing problems,4,0
+81,d_f527a19922fba50b,Riviera fountain damaged,4,1
+82,d_c00e54ae2538e9a0,Bleacher supports damaged while moving,4,2
+83,d_800576f695166a74,wind/water damage to roof,4,3
+84,d_29563c6664881025,Lightning strike to the WWTP,4,4
+85,d_3ff1a2215e7309b3,water damage at Toki,4,5
+86,d_039c51b048427cef,storm damage at Health Care Center,4,6
+87,d_1c70bc2b859a5e8f,lightning damage at ES/MS,4,7
+88,d_01ef783dce9c5fcd,Memorial - 11844 - fans damaged by kicked balls,4,8
+89,d_b799f4f9634ce8de,storage building collapsed,4,9
+90,d_eb7c2eb069e9c051,ceiling collapsed in jail,4,10
+91,d_8c280874280d8e8c,wind damage to racetrack park,4,11
+92,d_97eabf2f7fe81961,lightning damage to comm. system,4,12
+93,d_61c91b8566fa6760,lightning damage to siren at Tourist Park,4,13
+94,d_7a53eb07fedb7f34,utility saws taken from engineering vehicle,4,14
+95,d_70990cd3c92539d3,vandalism damage at Stephens ES,4,15
+96,d_4c2e25ad3f2b4640,water damage at Laundry Building,4,16
+97,d_862f8e2ea4117d76,forklift hit building damaging wall and door frame,4,17
+98,d_bb068309302a05b1,water damage at Lowell ES,4,18
+99,d_85d9d9ed92f47421,lightning damage at Lakeview Manor,4,19
+100,d_a8b748fd73ad17d7,Gunshot holes in football scoreboard,5,0
+101,d_0b074070d1ac7919,theft of radio,5,1
+102,d_534960730b6a34e0,vehicle damaged traffic light/pole,5,2
+103,d_8b064374ad4da1aa,fire damage at Lance Middle,5,3
+104,d_7bc5af66d98bd7d6,runway lights damaged by plow,5,4
+105,d_a40f401d22a38648,exit door lights damaged at Hwy Dept,5,5
+106,d_7469694e7cf3ee49,lightning damage to medical phones,5,6
+107,d_01c1b7da171d02ad,glass vandalism at Marquette ES,5,7
+108,d_1ad7a9f2dbfebfcf,Elvehjem - 262 - vandalism,5,8
+109,d_799f6462801b1e2e,vehicle hit and damaged wood door and cement block,5,9
+110,d_2c12cf06aefde5a4,theft of laptops and radio,5,10
+111,d_82bd968363e5c777,wind/hail damage to treatment plant,5,11
+112,d_d79e646c2af83679,water damage at Southport ES,5,12
+113,d_9b4ace99622ec590,lightning damage to meter,5,13
+114,d_10b85220e327f825,gutters damaged at Comm. Hall,5,14
+115,d_f26a90b9ef1d3cd1,coils froze & broke,5,15
+116,d_c5173624748a4747,vandalism damage at M.S.,5,16
+117,d_9cf8c1f9decb1f8c,Hail damage to station roof,5,17
+118,d_db5e3ff2df6d05d5,equipment damaged while fighting fire,5,18
+119,d_38981c68238f15b9,glass breakage at LEC,5,19
+120,d_b4ce16189ad173d3,vandalism damage at Otjen Park,6,0
+121,d_eb234685d96facde,vehicle damaged MS/HS,6,1
+122,d_e877cfa3f036a779,lightning damage at airport runway,6,2
+123,d_1606884f86ebde3e,glass vandalism at lafollette,6,3
+124,d_40c2e8d3b115401c,Gate 19 damaged GMIA,6,4
+125,d_99e0bcd31e5ad38f,parking meters stolen,6,5
+126,d_ad1f8f18afd0cce2,vandalism to warning beacon on top of tower,6,6
+127,d_4d2b749c8f147886,garage door damaged at Hwy Dept.,6,7
+128,d_988dd139cf913335,Lincoln - llm 011691 - play structure plexiglass,6,8
+129,d_82304556a2aec4d0,"vandalism to roof, doors, windows",6,9
+130,d_088c7e0f92637126,entry door glass broken,6,10
+131,d_dca7691512723e77,water damage at Safety Bldg,6,11
+132,d_bd04b435280b029e,vandalism to wires at East HS,6,12
+133,d_a400a916a54c2a32,lightning damage at golf course,6,13
+134,d_518aafcb191ae331,Lightning Strike Sager Center,6,14
+135,d_a526c5c0e4671dae,Traffic signal struck by vehicle,6,15
+136,d_d5a1f7acadd2cc39,Wind damage to Kemper buildings,6,16
+137,d_7dd62d6b1a396fac,Winds blew roof of salt dome off,6,17
+138,d_23194c427e0346cd,Wind damage at various locations,6,18
+139,d_b807815a179dc84e,laptop #1 damaged,6,19
+140,d_daa1f120a3de5b6f,3 breezeway windows with bb or pellet holes,7,0
+141,d_942770e958abe35e,vandalism at East HS,7,1
+142,d_d51d07345f186951,Glass vandalism at Blackhawk MS,7,2
+143,d_1e2a884023b8730b,glass vandalism at Bradford HS,7,3
+144,d_942c12eba387310d,lightning damage to contents,7,4
+145,d_390d101ee813458a,window broken at Whittier ES,7,5
+146,d_0f86b954159648f9,ice damage to Castle Rock boat slip,7,6
+147,d_dff95d669c3e4c7e,power outage at well & WWTP,7,7
+148,d_28846e830f1e1cd4,Lightning Damage to data radio,7,8
+149,d_39eebba45469f22c,Hail damage to pumphouse #6 roof,7,9
+150,d_f96ea7d18c720137,theft of equipment from HS,7,10
+151,d_f75abd70a609bac6,Fire at District Office,7,11
+152,d_2fb8653070e53858,vehicle struck garage door at PD,7,12
+153,d_0f3d541f2cfc044c,LaFollette H.S. Partition damage 11M-5140,7,13
+154,d_a777c641bd11a247,Dmg to exterior door from attempted break-in,7,14
+155,d_32d4d1b32923d14b,vandalism at lift station,7,15
+156,d_182b36506863eca1,water damage to condo plats and cabinet,7,16
+157,d_cbf555ee6b18b42c,vandalism dmg Shendan bath house,7,17
+158,d_cacf375c6f5610ff,Kennedy - 12m001412 - glass,7,18
+159,d_2965874f09d232ba,Sewer backup into regulator room at airport,7,19
+160,d_9ab98b814bc6001c,"lightning damage to scoreboards, alarm system",8,0
+161,d_88cf37355f0ed436,lightning damage at Comm Center,8,1
+162,d_5e1d02146d0f7471,water damage at airport house,8,2
+163,d_2a5de6db22e866ae,water damage-Ice Rink,8,3
+164,d_fc3ee015b2597350,vandalism at Madison Park,8,4
+165,d_09a522fed1795ef1,Center Street Park Pavilion - vandalism,8,5
+166,d_76891ede6a4b6ab8,water damage to electrical room,8,6
+167,d_26b7a4d9fa40f582,Tefeathaler Park - 2078/090 - storm damage,8,7
+168,d_9f45fe3b2ab4c3a3,light pole damage at food services,8,8
+169,d_b9b33afbe5fe9be2,lightning damage at Maple School,8,9
+170,d_fe7db523a05c8057,piping pool heaters damaged,8,10
+171,d_9acbaafc9428aaff,water damage to Health Care Center,8,11
+172,d_90dc9c3965b1954d,lightning damage to sheriff's dept data system,8,12
+173,d_aea289afba0394a2,laptop damaged at WIC,8,13
+174,d_cb72b0fc06792cee,customer ran vehicle into building,8,14
+175,d_0ee2c33821217340,fire damage at library,8,15
+176,d_eece0512ec8d1ef9,storm damage to HVAC at Rec. Center,8,16
+177,d_7ab8601bdafe3c00,water damage at Randall ES,8,17
+178,d_bf80eadddfb70d79,semi struck two signal lights causing damage,8,18
+179,d_26e75eef5c2e7719,hit & run to hydrant,8,19
+180,d_2cd981a7c2378a0c,fire in dust collecting system at HS,9,0
+181,d_f0b1bf872a4fb3e4,pipes froze,9,1
+182,d_06966f5de6432fcc,overhead door damaged at fire station,9,2
+183,d_a595c2a5babd5b87,Verterans 2083-1505 window damaged comfort station,9,3
+184,d_74767fe862eb153a,wind damage to chain link fence,9,4
+185,d_db7cb0210a9e2a56,vandalism damage at County Line,9,5
+186,d_36ae051859820b87,lightning damage to radio receiver,9,6
+187,d_a567be90fe881dbe,Lincoln Park - 2047 1390 - wind blew off flat roof,9,7
+188,d_9088f1f1b1ceb2ee,lightning damage at House of Corr.,9,8
+189,d_1994686b38781131,water main break near Day Hospital,9,9
+190,d_88040d1ead7a3843,vandalism at Emerson,9,10
+191,d_2558f5ef065ef45c,lightning damage to VFD,9,11
+192,d_624d1827d21a6cfe,vandalism at Joanne Stadium,9,12
+193,d_6610f07bd2131aca,Traffic control box struck by vehicle,9,13
+194,d_26073c476e95d1d2,glass vandalism at Hoyt MSCR,9,14
+195,d_4a677d2335c2a745,street light pole destroyed by hit & run,9,15
+196,d_97994e175fc854d4,fence damaged at 11th street,9,16
+197,d_2ffcefad50a85256,forklift damaged heater,9,17
+198,d_a7a1fcf331583ec8,laser damaged from fall,9,18
+199,d_da8c8558e4d9b9d9,vehicle knocked down signal light,9,19
+200,d_1ead3fa01ee1b747,water damage at Lincoln Elementary,10,0
+201,d_2cb392fdfa0ee88a,Kennedy - glass - vandalism - llm 009163,10,1
+202,d_06aeb1fe782ec3d8,wind damage to baseball scoreboard sign,10,2
+203,d_9d6d8fdb7d708e47,lightning damage to signal converter,10,3
+204,d_26660191c4e6a79f,Lightning damage to communication boards,10,4
+205,d_e21c6d0edd74226f,lightning strike to cards in phone system,10,5
+206,d_af528fa42e28ebad,Light pole damaged at Hanley,10,6
+207,d_0be75e15192c4751,lightning strike dmgd bldg electrical components,10,7
+208,d_3ad2f5d00a489f33,hail damage at HHS & jail,10,8
+209,d_498b88cef3e82ff8,power surge at well & tower #1,10,9
+210,d_8d0caa5ee0044a17,wind damage to roof at Public Works,10,10
+211,d_c06eec64628629b5,vandalism damage at copernicus,10,11
+212,d_1f74330feb0fe334,Cherokee - 12M6263 - graffiti,10,12
+213,d_076ac4ab48f0ed87,Sennett MS llM7164 - exit sign vandalized,10,13
+214,d_13da447df96038f0,unknown vehicle collised with fire hydrant,10,14
+215,d_71fea450cadb14d1,frozen coils at highway shop,10,15
+216,d_b7bbe2a45664e198,water damage at Rocky Knoll,10,16
+217,d_46c4d68c020603cb,fire damage to house,10,17
+218,d_97590f511fdc2484,fire & smoke damage at garage,10,18
+219,d_78cd115d7f3df00b,three bikes missing,10,19
+220,d_a06c6e01de34894e,lightning/wind damaged receiver/internet,11,0
+221,d_ea2b4261a9ad83e6,water damage at jail,11,1
+222,d_3d35b99091e75b23,theft of tools from shop,11,2
+223,d_3648ffc8707e72de,entrance door window broken,11,3
+224,d_0a93715afaf71f13,hail damage to roofs,11,4
+225,d_caad7655197d2bbf,Hanson 2030,11,5
+226,d_2b35b982cff42f76,lightning damage to security monitor,11,6
+227,d_6937bf9fb71ad062,storm sewer inlet castings stolen,11,7
+228,d_efde035ee24ef588,scale damaged,11,8
+229,d_c334c99bc5ea7cef,vandalism to city hall building,11,9
+230,d_6e96a2d9c1b8b19b,Water damage at various sites,11,10
+231,d_8d5f8522a8b94db6,fire & smoke damage at Fire Dept.,11,11
+232,d_40ec6c6a8e476e35,water damage to safety building,11,12
+233,d_9b37d29aacc8d25e,storm damage at golf course,11,13
+234,d_313cad1816479af2,lightning damage at elementary school,11,14
+235,d_7dfd2a553e53b32f,Fire in H.S. science classroom,11,15
+236,d_fdf9a134dc4dd51c,radio stolen,11,16
+237,d_5c7fe87aae489edd,lightning damage to chiller,11,17
+238,d_25dfc38575892293,theft of tennis nets from Tremper HS,11,18
+239,d_6b93df2d95316b2a,Gym Windows - Vandalism,11,19
+240,d_ee433d23295b3239,Graffiti Pulaski 2065-154,12,0
+241,d_a29fd262f59476bd,vandalism to community bldg,12,1
+242,d_2537c738f8bc2e98,ice dam damage to roof,12,2
+243,d_d80fe16de45e40cd,Playground equipment stolen from Columbus,12,3
+244,d_eccdc81dd66d0ce4,glass vandalism at Humboldt Pk,12,4
+245,d_5c7d2f159d0bd0b7,vandalism dmg Kozy service garage,12,5
+246,d_73102db6358dd5ca,Pipes froze at Kilbourne Library,12,6
+247,d_93caa98f28bc0a3f,power surge damaged amplifiers,12,7
+248,d_a568c1da488167f6,vandalism & theft at HS,12,8
+249,d_1072acdaf1393ba8,lightning damage to electric control starter,12,9
+250,d_eda8a2731164f65c,water & mold damage at Van Hise ES,12,10
+251,d_a2682ed2590352c1,Leopold - 12M3149 - glass,12,11
+252,d_31d762040dcc4b2e,truck entering garaged damaged overhead door,12,12
+253,d_72e4b3551d49b2a8,vehicle struck utility pole,12,13
+254,d_bf6ce5fec107e73b,Mendota - 12M7469 - glass,12,14
+255,d_d328e6dfa730c053,car knocked down streetlight,12,15
+256,d_f74f5173221fdd95,Airport runway lighting damage,12,16
+257,d_95b3ea9536d8a1ea,Lightning damage to WTP transducers,12,17
+258,d_90a29e48f06a1198,"lightning damage to security panel, A/C, phones",12,18
+259,d_8668939d913a0015,chemical spill at HS,12,19
+260,d_8fd128ad7118c90f,highway arrowboard damaged,13,0
+261,d_186a669f5d3dfb5a,winds damage athletic entrance vestibule roof,13,1
+262,d_cca1cdf4f6321a4d,vehicle damaged light pole and fixture,13,2
+263,d_2525e769c10d40fa,vandalism to smoke detectors at Blackhawk,13,3
+264,d_7db67441e273887b,Water damage to computers,13,4
+265,d_16fd0ee12505fbe1,electrical power surge to components,13,5
+266,d_0eeb30afa7dea02b,garage door struck by vehicle,13,6
+267,d_1fba8c6e8028344c,garage door damaged by truck,13,7
+268,d_a8aa075fd9140ccb,lightning damage at W Main St.,13,8
+269,d_7b99d8beb5c5e471,vandalism at Wilder shelter,13,9
+270,d_0fe64672f1153d97,fire damage at park,13,10
+271,d_ce421b38e31fe259,lightning damage to catalyst switch,13,11
+272,d_4f8ee221d05e1fbb,vehicle dmgd dumpster & building,13,12
+273,d_aa544dd408c29470,Elvehjem - llm009808 - broken door glass,13,13
+274,d_42933073af27ce2a,wind damage at Viking MS,13,14
+275,d_a2e6c3c7b58a2df5,traffic box damaged,13,15
+276,d_c1177cbdd3f110a7,Mitchell 2057,13,16
+277,d_6f85f606e3ef0316,wind/water damage to various areas at golf course,13,17
+278,d_beadbc120059ea18,"lightning dmgd garage, clocks, runway sensor",13,18
+279,d_f2ebd0fc94abcef7,inside storm glass cracked - Lowell ES,13,19
+280,d_bfb7fa8d50cdef67,lightning hit computer,14,0
+281,d_f251ad04f20b29c7,Lightning damage to runway 13 PAPI unit,14,1
+282,d_366856302940b68f,"exit light smashed, light cage missing",14,2
+283,d_d641632d898dd2e4,vandalism at Hoyt Park,14,3
+284,d_d2e7ac4608ec4218,Jacobus Park 2035/2080 - tree fell on bldg & fence,14,4
+285,d_d087faad3606daf1,vandalism to items at fairgrounds,14,5
+286,d_986388dbe3dd66b3,"GPS unit set on back of truck, fell off, run over",14,6
+287,d_7f6a6b49948a8357,fire damage at building,14,7
+288,d_9a5579296b9c507e,water damage to school gym,14,8
+289,d_d37b5f84a7068cbd,window broken,14,9
+290,d_56087316502a46e1,fan fire at Sherman MS,14,10
+291,d_341391bf5d35e33e,vandalism at Madison Golf Course,14,11
+292,d_4977991b43e66eed,glass vandalism at Leopold ES,14,12
+293,d_531f8d2249a4353c,wind damage to siren,14,13
+294,d_772817045d6eaec1,Water main break in front of Badger High,14,14
+295,d_c602683e190dcafa,traffic signal damaged by vehicle,14,15
+296,d_fd68f778e08e5f1f,lightning damage at PSB,14,16
+297,d_617671c7eabac9be,vandalism dmg Kozy/Pelican Cove,14,17
+298,d_24da61e75004dbcc,lightning damaged well control unit,14,18
+299,d_4b664a6dffbdb549,water damage to office supplies/records,14,19
+300,d_7882211e726b96fb,Streetlight damaged by hit & run driver,15,0
+301,d_d887abd9bbe425bd,door glass broke when student kicked door,15,1
+302,d_6d569dd2f64d960b,squirrel damaged server at courthouse,15,2
+303,d_9a15847c94491c38,lightning damage to panel,15,3
+304,d_3d8afe4e60ad80fd,vandalism at High School,15,4
+305,d_1ee7094a6380555f,Traffic signal hit and run,15,5
+306,d_ed0bd42b31a5f957,Theft- Sheriff's mobile data equipment,15,6
+307,d_11b3cc17e1eefea3,vandalism at White Horse,15,7
+308,d_4384f3803a853fb0,sewer back up damage,15,8
+309,d_5ca607078b4fa6d1,dock damage at the marina,15,9
+310,d_50c536e080c567d3,lightning damaged siren at Columbus Park,15,10
+311,d_467e45556d32f76c,wind damge to roof,15,11
+312,d_a9441ce710520fbc,hail & wind storm damage,15,12
+313,d_69d88b68c4a095a3,Spring Harbor-12M4772-glass,15,13
+314,d_0f14fb6d107eaa91,lightning damage,15,14
+315,d_2360aa967c747f55,lightning damage to Finance Dept.,15,15
+316,d_2251db2794f45ca6,lightning damage to antenna and radio,15,16
+317,d_5e6efeb94d6fb1a4,Elvehjem-12M5024-glass,15,17
+318,d_e5c5f13413b64d90,hit and run damaged street light pole,15,18
+319,d_be14b588fa0a6dc4,h & r to street light,15,19
+320,d_02dc33fc25469acd,ember fell on cedar roof causing 2x3 burn area,16,0
+321,d_32239f8144b8cab4,control panel and transducer damaged by lightning,16,1
+322,d_0e5c1465393df731,theft of tools,16,2
+323,d_43c40b233a08b31d,water damage at MS,16,3
+324,d_da65911b776201c7,lightning damage at Village Hall,16,4
+325,d_39eefe7cd0394e33,"cutting grass, rock flew through window",16,5
+326,d_3b3375fd9f33ea2b,water damage at Huber PT-07-120-00005,16,6
+327,d_46afbe4f6c9de8a8,vandalism to Edgewood lighting,16,7
+328,d_1a3aaa547eaf93bc,East-12 5041-East,16,8
+329,d_c37a8b2d260a753c,vandalism to plastic slide,16,9
+330,d_24ea806a614db429,West - llm-10854 - ADA button,16,10
+331,d_4e44da9ae3df422c,water damage at Bradford,16,11
+332,d_e1eb4e6325f4b6ee,vandalism at Meadowbrook,16,12
+333,d_65d2e7524274ff14,water damaged pump/caused power outages,16,13
+334,d_7fa66258628bebc9,lightning damage to Neopit siren,16,14
+335,d_5d82c81ec97e1fe6,glass on fire exit door broken,16,15
+336,d_ce01eca75e34d02e,vandalism to St James tables,16,16
+337,d_e8532e44fe082228,vandalism damage to school roof,16,17
+338,d_cb8581929e278dea,vandalism to bridge rails/support,16,18
+339,d_78221107f34ccde2,Water entered building through the door,16,19
+340,d_5f6be2a6b3162b1c,child ran into glass door - glass shattered,17,0
+341,d_8a6460cb742c7756,BDH 9455 roof damage,17,1
+342,d_978cd672a24ef654,water damage at Goodman Pool,17,2
+343,d_4c71a0551364e2f9,glass vandalism at West HS,17,3
+344,d_696d141e5be286af,vandalism to the dusk to dawn light,17,4
+345,d_3976d071535c4e06,storm damage (wind & hail),17,5
+346,d_1c74b889511d0a9f,vehicle struck hydrant,17,6
+347,d_5b78b3d9f43a4091,lightning damaged computer & telemetry controls,17,7
+348,d_5e2bd314df58f47c,lightning damage to answering service,17,8
+349,d_a7dbbed2d69e38e7,ice and high water damaged dock,17,9
+350,d_f39971c4f53f99d8,Damage to outdoor planting pots,17,10
+351,d_91d1c5d7bbc6ec8b,lightning damage struck antenna/destroyed network,17,11
+352,d_84522203cd11129f,wires cut at airport,17,12
+353,d_90f43706ad28567f,lightning damaged relays at salt domes,17,13
+354,d_9a2d49d64d7075f3,bus garage door damage,17,14
+355,d_9e61b5ce039db18f,squirrel got into switch in substation,17,15
+356,d_e5560220582a1df4,theft of camera from Forest Ln.,17,16
+357,d_3636d5aeb174122a,roof damage due to high winds,17,17
+358,d_3669c713068f9548,lightning damaged printer at PD,17,18
+359,d_c3aecca7cb38fc06,vandalism damage HS & MS,17,19
+360,d_0a90c149090844a0,Plow hit by Semi,18,0
+361,d_d171fb5f2216df88,Vandalism at Clarke Square,18,1
+362,d_66d9ee3eb1573e8e,lightning damaged radios,18,2
+363,d_1d46a5fb261b92bf,wind damage to Hangar 511 at airport,18,3
+364,d_10d638fa12a6aa7f,water damage at municipal building,18,4
+365,d_42f5b4bf629d5ea7,Vandalism/fire to wooden stairway,18,5
+366,d_663c3c733ba8e9f1,Damages at Public Works Facility,18,6
+367,d_e286f1ef1bccfb29,camera found non-functioning,18,7
+368,d_32dcd89afa9f84ca,breezeway door glass broken,18,8
+369,d_acd5bddd4b8fa579,vandalism damage at Northwoods ES,18,9
+370,d_df40758791d13991,lightning damage to airport security gates,18,10
+371,d_c6db210842ffd683,door broken by student at Frank Allis ES,18,11
+372,d_0b3d05a4025e984e,fire damage at City Hall,18,12
+373,d_201fccded9bc0b83,power surge damage at HS,18,13
+374,d_8c98282c557b4bf5,lightning damage to irrigation controller,18,14
+375,d_798b5661d5b859b2,vehicle hit street light,18,15
+376,d_7eeff0e1fffd8244,truck damaged building,18,16
+377,d_3314890f62ede0df,ambulance rolled backward and hit overhead door,18,17
+378,d_7e295bd7262f4c61,lightning damage to well pump,18,18
+379,d_4a80622f7f54c5df,Water leaked from roof damaging gym floor,18,19
+380,d_7bad529205e3ee3d,water damage at police dept.,19,0
+381,d_2e5bb6a36733bad3,power surge at well #6,19,1
+382,d_3382f1389e5538e2,smoke & soot damage at Comm. Center,19,2
+383,d_837fecbd22e55e81,water damage at elementary,19,3
+384,d_f8b1fc12ada857a0,lightning damage at water reservoir,19,4
+385,d_af02ab5843669da9,water damage fire station 1,19,5
+386,d_2412fd1b7092847f,hail damage to roof at village hall,19,6
+387,d_6210935902056ed5,"wind damage to pumps, fence, door",19,7
+388,d_75577ce019934406,winds tore banners/broke banner arms,19,8
+389,d_2c076a7ba77a62ec,Lincoln-exterior door glass broke-12M000974,19,9
+390,d_7d652245433284bb,lightning damage at park & WWTP,19,10
+391,d_edd22dabf2ae4a38,"lightning struck analog card, pressure transducers",19,11
+392,d_5b4a215f90b6ecc5,Allied Learning Center - 12M-010501 - glass,19,12
+393,d_0120a18205f459a9,vehicle struck signal,19,13
+394,d_6d56a0a18016aa70,water damage to electronic equipment,19,14
+395,d_026dfcdc66122f94,"vehicle damaged tree, sign, light pole",19,15
+396,d_7fa52d83b262d136,vandalism damage to equipment,19,16
+397,d_a90c8bb1a8ce24a3,"lightning struck and destroyed tank, dmgd clock",19,17
+398,d_dc8780d80091c5fc,graffiti on outside sign at Hoyt,19,18
+399,d_737a6e055d9b47f4,taser lost on Hwy 42,19,19
+400,d_94a1193ed9dd7cb1,lightning damage to water towers,20,0
+401,d_0ef4bf39b29255ad,lightning damage at MS,20,1
+402,d_0ee321fada5b9eb7,hail damage at Brewery Road,20,2
+403,d_134abc166817930a,fence damaged at zoo,20,3
+404,d_a3aaeb743d66c057,water valve burst causing water damage to building,20,4
+405,d_728d5ab8ac212017,lightning dmgd telephone trunk card,20,5
+406,d_2b07e97fab39b0a5,vandalism to concession stands,20,6
+407,d_023b9d7343d0acb3,glass vandalism at Lake View,20,7
+408,d_c8bc1f34e8d027bf,break in & theft at MS,20,8
+409,d_60c4f55104cb5acf,possible storm damage to generator,20,9
+410,d_b8956a32f85a145a,"water leaked through ceiling, down wall onto floor",20,10
+411,d_84c34e1cf6c34d62,Composite Panel Damage,20,11
+412,d_9ae873e78617652a,Shabazz - llM4166 - water damaged monitor,20,12
+413,d_b74ec1d4f5c5b7c7,classroom entry door cracked/broken when closing,20,13
+414,d_2f00fc8fdd9545f6,equipment stolen,20,14
+415,d_d2ebcb45b45e81e2,laptop #12 damaged,20,15
+416,d_61590ac097868fa2,Lightning Damage to Resvoir,20,16
+417,d_40642308bbf68f71,vandalism at Eken Park,20,17
+418,d_36e2ab9426c2047c,vandalism damage at Gegan ES,20,18
+419,d_125f044f384b6a1e,fish grinder vandalism,20,19
+420,d_ece9a74bb83caad9,eye glasses damaged,21,0
+421,d_52a8466b3b7a38ac,laptop missing from drawer in teacher's desk,21,1
+422,d_db82443c7ae5c6d0,Falk Pavilion water damage,21,2
+423,d_f64e3c5b1abd8bfd,rains caused power outage damaging phone system,21,3
+424,d_dff1ed6bb4240bf8,Huegel - llm10145 - glass,21,4
+425,d_a005f5396d436f47,Lincoln - llm011196 - glass door,21,5
+426,d_fce2dba47ffac308,vandalism to tower's protection system,21,6
+427,d_e9841e3a09a1bc25,windows broken by rocks,21,7
+428,d_f9f826c65c6f6f17,lightning damage at park maintenance,21,8
+429,d_59269c59a60a9c4a,Power surge damaged jail's freezer compressor,21,9
+430,d_721de506f6fd8a7b,during wind dmg cleanup limb struck park shelter,21,10
+431,d_9f6bb432fe9cde70,sign damaged at W Wells,21,11
+432,d_73f6dea6011f552b,graffit on two sheds in athletic field,21,12
+433,d_032a406e9945486b,glass damaged at Thoreau ES,21,13
+434,d_8364ef8fcb89d5d7,Door glass broken,21,14
+435,d_34a73ff63feae6b1,spike in transformer - phone burned out,21,15
+436,d_42c1f6d662bb6118,Sewer back up damaged electrical components,21,16
+437,d_7cd41f3c9f10a465,glass vandalism at West,21,17
+438,d_1643cdae7580d342,equipment damaged by fall,21,18
+439,d_f2cbc37fb7651556,vandalism at Lemonweir,21,19
+440,d_e7ae335622c14742,vandalism damage at Glenwood ES,22,0
+441,d_cbae3db4d0ae54a0,signal light damaged,22,1
+442,d_48d3981c8e0c8b85,"batteries exploded while charging-dmgd walls, docs",22,2
+443,d_acd5e94dbc9e8ba4,Offset press damaged while being moved,22,3
+444,d_f77b6b4c2afd75f8,sewer line damage,22,4
+445,d_16a494043e7ed364,fire damage to steel building,22,5
+446,d_7a545c576ca588c0,vandalism damage at estabrook,22,6
+447,d_354f21b42fca5972,"wind blew shingles off sheds, shop",22,7
+448,d_f967df5cdf0ce3e6,garage door damaged at Sheriff's Dept.,22,8
+449,d_f43e780d3c430b65,police equip stolen,22,9
+450,d_6032faafe5db4266,glass vandalism at Thoreau,22,10
+451,d_d2db03583d7de84f,wind damage at Lincoln Park/zoo,22,11
+452,d_590c6e9721401d9f,fire damage - Southshore Treatment Plant,22,12
+453,d_84ab7b0199f21f01,lightning damage to 13 ballasts,22,13
+454,d_41924d33083d1f18,glass vandalism at Sherman MS,22,14
+455,d_2b652f4c260e87a6,possible lightning damage to North HS,22,15
+456,d_adefe84173c60211,fire vandalism at park playground,22,16
+457,d_4d98a7a36193cf32,ice dam damage at Mitchell Pavilion,22,17
+458,d_55429d3ae9397236,fire damage at North Gable,22,18
+459,d_52b8d477f6b5fe1c,Kosciuszko 2043-153,22,19
+460,d_750d2a5718f6db57,Truck vs garage door,23,0
+461,d_2bc9a5c32801d99b,lightning damage at La Valle Tower,23,1
+462,d_8bb8ea406c873b92,lightning damge to radio tower,23,2
+463,d_9a9ec18d03196f21,West  - llm 12531 - graffiti parking lot wall,23,3
+464,d_b097aec869e2c226,vandalism at ERVB shelter,23,4
+465,d_731ceebb5c7633f9,fire hydrant damaged 91st St,23,5
+466,d_ae98801983f30ae8,theft of pedestrian crossing marker,23,6
+467,d_486e36938379bb65,vehicle knocked down street light,23,7
+468,d_f397eba665939462,graffit at Leopold,23,8
+469,d_5a0d7ed1e2d904e4,"torn screens, window damage",23,9
+470,d_da64c7d27030c3e2,WIndow broken at HHS,23,10
+471,d_5bdeddfb3b51df91,Lightning damage to meter driver,23,11
+472,d_e2213b3c4f6be2da,hail damage to multiple buildings,23,12
+473,d_c61364b48e5258ad,Sandburg-12M4293-screens,23,13
+474,d_99da61f638817fb5,graffiti at West,23,14
+475,d_03ad67929b4403f3,lightning damage to computer,23,15
+476,d_fa5000f526e6e953,vandalism damage to boat house,23,16
+477,d_c41d48c34af31f4f,Damages from roof,23,17
+478,d_dc01345272acb13f,lightning damage to SCADA,23,18
+479,d_87d7abbe70764838,Whitehorse-llM-008566 - glass broken,23,19
+480,d_03e19f7f36149247,brick thrown through office window,24,0
+481,d_4899cd98dc50694e,3 globes on bridge lighting shot out,24,1
+482,d_5668bbef9ba2e50a,chemical spill at Lakeland School,24,2
+483,d_99c404eb2dbd3d8a,vandalism damage at Rose Park,24,3
+484,d_8293fdbaddb79d98,water damage at school,24,4
+485,d_740f45cc6b885c80,sewer back up at Municipal Bldg.,24,5
+486,d_daef1d290e5f3089,water damage to generator,24,6
+487,d_11f4af1a779ed31b,power surge/interruption at library,24,7
+488,d_d1972a737f03fb97,vandalism at Clark Square,24,8
+489,d_a096edb3b0c720e6,vandalism at park concession,24,9
+490,d_79a1f5f90313d473,pole & sign damaged by vehicle,24,10
+491,d_6d34620541094e32,door glass broken at Sherman School,24,11
+492,d_c1fe30d08b99873b,Primary metering package hit by lightning,24,12
+493,d_c667731cbc47f1cc,theft of camera at park,24,13
+494,d_1af151ee4b2d204d,Leopold - 12M2279 - broken glass,24,14
+495,d_a7aae173dbe74be5,Well #4 damaged,24,15
+496,d_c7c3f7cdde713cdd,truck struck public works building,24,16
+497,d_476928ad745474f2,graffiti at Hoyt Park,24,17
+498,d_a7d03b73cea8c3fe,water damage at Admin. Bldg.,24,18
+499,d_b07eb95ba3df482a,fire & smoke damage at M.S.,24,19
+500,d_aeb581f2e8e3e517,LaFolette - 12M-6047 - drywall,25,0
+501,d_722d4170a62fee8d,Fencing damaged by winds,25,1
+502,d_2d01597c9049b36a,vandalism damage at Kops Park,25,2
+503,d_212414c94904ea85,windows damaged at Washington MS,25,3
+504,d_7b78f00fb5e86220,Employee struck overhead door,25,4
+505,d_058de19a50607be7,broken outside windows - k-wing,25,5
+506,d_af309081da528446,Graffiti/Wilson picnic shelter,25,6
+507,d_15d214f0bf6d8ecc,lightning damage to Well #5,25,7
+508,d_f3fd79bfdf2b9d45,power surge at Kewaskum HS,25,8
+509,d_bd596b940fd22c7c,sewer back up at Village Hall,25,9
+510,d_1ca0156e01bbf0eb,power surge to heating system,25,10
+511,d_c46ed5c6abb33de4,pipe broke at Wileman ES,25,11
+512,d_9dbbc7e7b2fd1e0c,2 pathway bollards knocked over,25,12
+513,d_66d267c64da77646,Water damage at Community Hall,25,13
+514,d_66db057323aaf5ab,vandalism multiple windows at Schenk,25,14
+515,d_7691ce557f4d88fc,Gym window broken,25,15
+516,d_6869311ce5e73b49,vandalism at Kennedy shelter,25,16
+517,d_9c85546e1efcec3e,Fire in mens room atVillage Pavilion,25,17
+518,d_a38cd1f09093d3af,Sherman 10-M12417 glass cracked in corridor 163,25,18
+519,d_4380fd70c501f2cc,hail damage to town hall,25,19
+520,d_f92cc624e9cf4e41,door damage at AEC,26,0
+521,d_783fd54f68e7edc3,water damage to football field stadium,26,1
+522,d_3c9e874032726ec5,lightning damage to well #1,26,2
+523,d_77ca513ca15cef56,break in - library materials taken,26,3
+524,d_5e4875dc88e8a362,lightning damage at Winkler ES,26,4
+525,d_e4a9262c9ccfab8a,vandalism to building on Sixth Street,26,5
+526,d_8499f7cb407e4cec,glass vandalism at Wright MS,26,6
+527,d_cf8c464e3e4e7ec7,rain water damage under door and saturated carpet,26,7
+528,d_ad23f05cbddcd6d5,fire damage at CJF,26,8
+529,d_524c4ee6fca43884,light pole damaged at Jefferson MS,26,9
+530,d_b34de287427a1b39,"wind damage to building, fence",26,10
+531,d_94779348628a63a3,traffic signal blown down,26,11
+532,d_51c9f6bc7921038b,K-9 Deano injured in training,26,12
+533,d_4a95872cd3ca5f0e,Lightning damage to signal controller & LED bulbs,26,13
+534,d_028c132f9c6441e7,Roof leaked into the Community Hall,26,14
+535,d_642439690ea0e68e,light pole knocked down by vehicle,26,15
+536,d_91805487a8ddb9f2,graffiti painted on water tower,26,16
+537,d_72b78f266e4f83ea,radios damaged by vehicle,26,17
+538,d_3d7b50189675a341,sign damaged at Leeson Park,26,18
+539,d_763417bc2fbf5922,rock thrown at electronic sign monitor,26,19
+540,d_6bca98f5ea577da0,truck hit garage door,27,0
+541,d_798b4905d0b1e8ad,LaFollette - 12M4078 - broken storm window,27,1
+542,d_b55bc5bd1e8e82e4,vehicle damaged traffic signal,27,2
+543,d_c0050c3438a646ff,lightning damage to HVAC network,27,3
+544,d_a0e04128b4ca17aa,Hit and Run light pole,27,4
+545,d_0233d926e5c36326,fire damage at public works garage,27,5
+546,d_452233d1f53bc5e6,vehicle damaged playground,27,6
+547,d_6b55071c8f1ed15b,laptop damaged KTEC,27,7
+548,d_8f85b94736bcb8fd,theft of power tools from quarry,27,8
+549,d_dd31f77d0a314787,"wind damage to fences, batting cages, dugouts",27,9
+550,d_b403bd4b770754dd,damaged building w/excavator while moving pipe,27,10
+551,d_fc92c50743dcd001,electrical damage to computer/monitor,27,11
+552,d_ec60019421db8108,"lightning damage to tree, fire alarm panel",27,12
+553,d_979c78d2e2a442e9,fire hydrant damaged at Bluemound Rd.,27,13
+554,d_8242a29730666898,fire and water damage at Mental Health Center,27,14
+555,d_f633696fc913347f,Air compressor damaged,27,15
+556,d_e8c2d66bb2b7c22b,hail damage to roof of gym,27,16
+557,d_d8824b6f13e3ca3c,City building on Caldwell was vandalized,27,17
+558,d_45bc44e816525dac,hit and run damaged light pole,27,18
+559,d_5aacc0180ae098e3,mouse damaged a/c,27,19
+560,d_63d3c65c13a1e662,vehicle damaged sign/post,28,0
+561,d_257140c00449724d,roof leaked onto gym floor,28,1
+562,d_73fbeb26de7434a6,Wind damage to Merit Center,28,2
+563,d_cf923b968f0e2b28,lights damaged at Kinderberg Park,28,3
+564,d_18f7fef981b8ea92,vandalism damage at Tiefenthaler,28,4
+565,d_4fb941fb434446c8,glass vandalism at police center,28,5
+566,d_835743a86febc4b3,wind caused power surge damaging well #2,28,6
+567,d_ddd6babcda9e441c,glass vandalism at Schenk ES,28,7
+568,d_d731e0cf9f431fc3,vandalism damage at boat house,28,8
+569,d_413793d62b23f27c,vandalism damage at City Campus,28,9
+570,d_6b25f86396699dc3,damage to basketball court,28,10
+571,d_9c4086dd0a240233,short in well caused damage to equipment,28,11
+572,d_f437e6b4dd8a5cfc,Vehicle backed into overhead door,28,12
+573,d_47bd0b8706a4cbc0,Falk - 12M2503 - broken glass,28,13
+574,d_0817afdc8a1c4dd7,graffiti damage - playground equipment,28,14
+575,d_6b92a4901bc3498e,glass vandalism at Sennett MS,28,15
+576,d_aacc9c8b12ea3a69,windows damaged,28,16
+577,d_870399308289ab25,glass vandalism West HS,28,17
+578,d_ece99f0db34c1b55,lightning damage to phones at ES,28,18
+579,d_a4a743ed61180782,lightning damage at museum,28,19
+580,d_94897d6f4284f67b,vandalism to doors at Jefferson MS,29,0
+581,d_48cb27092bbbfd9d,break in & theft at library,29,1
+582,d_7fc14e24080bce0a,lightning damage to IBM PC,29,2
+583,d_5df05129cff61770,lightning damage at Hatley Hwy Shop,29,3
+584,d_49ec709d3d851920,door glass side entrance broken at LaFollette,29,4
+585,d_04ba9060edfffc70,control box damaged on Hwy 97,29,5
+586,d_946cc513aa6d7ba8,water damage at Hein Bldg.,29,6
+587,d_9706d49434c6162c,water damage at Anderson House,29,7
+588,d_06bbc2efd8824129,lightning damage to tower Darlington,29,8
+589,d_aa3159220555a9e7,lightning damage-Well #3,29,9
+590,d_b6875dbd2e725733,lightning struck weather station,29,10
+591,d_8cb025e1f18111cf,vandalism damage at Greenfield Park,29,11
+592,d_eb21747138db52a0,hangar door damage,29,12
+593,d_ece7ba1d1076c265,utility pole damaged,29,13
+594,d_bf641479ac38ff24,hangar collapse at airport,29,14
+595,d_26a545578ce36fe5,while plowing light pole hit and knocked down,29,15
+596,d_a0a17d0b9395b5d4,theft of laptop at Lapham Elem,29,16
+597,d_a28cea44652b2d78,"winter glove flushed, got caught in grinder pipe",29,17
+598,d_ddd6db4f199c1dbc,traffic signal knocked down in hit and run,29,18
+599,d_58cf624678e0cab6,wind damage at WWTP,29,19
+600,d_8ead658e1219ad6a,lightning damage at Village Offices,30,0
+601,d_b019f9e903422324,vandalism at Danz shelter,30,1
+602,d_b13579bf53c98702,Multiple roofs with hail damage,30,2
+603,d_1ef40100e1353d1f,East - 12M-1728 - glass,30,3
+604,d_4b46a3fa2cc7479f,fire damage to building and contents,30,4
+605,d_f0603df76e70921b,garage door damaged at fire station,30,5
+606,d_abeef9b456358022,Fire Hydrant damages,30,6
+607,d_861d4fe83b58c6dd,arrowboard damaged,30,7
+608,d_5e070547387a4991,fire damage to TIC,30,8
+609,d_681f88d1fa53c38d,sewer backup at WWTP,30,9
+610,d_62049ac2cd8cac46,vandalism-Hein Park,30,10
+611,d_2a1e5d1febffcab4,Toki - vandalism,30,11
+612,d_2c5a3a2c4985a94f,Hit & run damage to traffic standard,30,12
+613,d_b1a94e4a129bb126,power surge,30,13
+614,d_c8ee6f8e6b1508e7,TIC damaged at fire,30,14
+615,d_f45344d08c081dc6,lightning damage at internet tower,30,15
+616,d_e040d2fe43e1bccc,vandalism to items at welcome center,30,16
+617,d_3d6e6ee332b1a23f,many rocks thrown through windows-door kicked in,30,17
+618,d_a45059a83384dec0,water damage at Phase II,30,18
+619,d_5e4558fb2631f068,vehicle damaged bleacher & fence,30,19
+620,d_b1f621df6a6a5c20,door entry glass broken,31,0
+621,d_c60d9623f1334921,smoke damage at Willow River ES,31,1
+622,d_c347536305c23a70,tree fell on roof during severe storm,31,2
+623,d_0c8602b8a0850881,lightning damage to traffic light camera processor,31,3
+624,d_76e7d2df47a2bf78,Hamilton - 12M6239 - graffiti,31,4
+625,d_3d848604607d9e56,lightning damage to telephones,31,5
+626,d_eb22aad570a4a99e,Ice dam damage at War Memorial,31,6
+627,d_b61115ddc8846897,Lightning damage EAST 11m-11644,31,7
+628,d_839fdf32384f1499,window damaged at Riverview Dr.,31,8
+629,d_49b0eaf83d90fc32,mold in storage area,31,9
+630,d_0ff88f4ebfb39c1b,hydrant stolen,31,10
+631,d_3288ec43469fb6c3,vandalism damage at Pinewood Park,31,11
+632,d_82287ee199f45347,vehicle broken into - laptop missing,31,12
+633,d_c031783db15325d9,water damage in locker room,31,13
+634,d_5d5a191bc3fb65fa,scale water damaged at PW,31,14
+635,d_65642bbb86361e5d,lightning damage to entry & paging systems,31,15
+636,d_9695103a87f904fd,light pole damaged on Main St.,31,16
+637,d_957164fb39ea8ed3,Mice damaged wiring and circuit boards,31,17
+638,d_b5fa37bbbebb88a0,wind damage to buildings and salt shed,31,18
+639,d_3eafd4ce0a846961,wind damage at highway garage,31,19
+640,d_e19fba3a01cf66b0,windows damaged at jail,32,0
+641,d_9ac658daedcd97f6,Hamilton - 12M8769 - phone,32,1
+642,d_b409fe120447c1c3,plow struck building,32,2
+643,d_03b65e5f16cae344,vandalism at Smith Park,32,3
+644,d_9c26fe172833ab7f,Toki - 12M10382 - door ADA,32,4
+645,d_e1e21d6daf60d7df,water damage at Rockview,32,5
+646,d_c875e0c0373c855e,fire damage to park bathroom,32,6
+647,d_06a2598b87e26ca6,vandalism-Airport,32,7
+648,d_901b27ac0abfcba2,Water damage in fire station,32,8
+649,d_4c608535ada54980,laptop stolen from vehicle,32,9
+650,d_00898c2c58522700,"Lightning damage to SCADA, radio data transceiver",32,10
+651,d_f3e1b7ac210afaec,theft of canoes,32,11
+652,d_64866bf0160f69d9,wind damage at Hatfield Park,32,12
+653,d_49a9fdd7ca594525,wind damage at Golden Age Manor,32,13
+654,d_49a886e8da2b7a65,Elvehjem -  12283 - broken window,32,14
+655,d_5ba58803f27a73fb,Roof coping damaged by wind,32,15
+656,d_1e4fe0b166bcebd6,theft of projector from East HS,32,16
+657,d_94686ecc2f6da21e,computer damaged Bradford HS,32,17
+658,d_592587e7fae58ec6,West - 12M5532 - glass,32,18
+659,d_67c41311aed058f0,Schenk - 12M-8631 - glass,32,19
+660,d_2326ab0d908ed445,Lightning damaged electrical systems,33,0
+661,d_e66a3cbc7360a3b7,vandalism damage at elvehjem,33,1
+662,d_9a4d1b7911c108a6,Lightining damaged cameras at pool,33,2
+663,d_54749da99af5852c,water damage at Luther ES,33,3
+664,d_e069cb4a833e0329,lightning damage at North Tower,33,4
+665,d_87a39a5dab8fde48,vandalism damage at MS,33,5
+666,d_e284b6d6e086b62e,glass vandalism at airport,33,6
+667,d_50bd146bea6b5cd3,"lightning damage to sign, taxiway, circuit board",33,7
+668,d_8d7244fa3e6ba3c7,fire damage to tarp/cover,33,8
+669,d_f74ec305dbd6ac36,damaged signal light due to veh accident,33,9
+670,d_f2df095d2ad1b7d7,Lightning struck barn causing a fire,33,10
+671,d_e8c9231c79ff9311,squad hit garage door at P.D.,33,11
+672,d_d6bdfe2180310dbd,vandalism damage at tiefenthaler pavilion,33,12
+673,d_d14f58970d37532b,graffiti at Thoreau Elem,33,13
+674,d_a5030893a669cd68,front entrance door/glass #1 kicked in at Falk,33,14
+675,d_a86df9003888c223,water damage at CATC,33,15
+676,d_7900e48292cae9d3,frozen pipes at DPW,33,16
+677,d_e516eb1973f88f1d,village sign struck and damaged,33,17
+678,d_7a92d1999121e9f2,snow dented steel siding on building,33,18
+679,d_7b82f3371f15bc1a,fire damage to city garage and 2 trucks,33,19
+680,d_38e8c0c2c6b2a6db,lightning damage at the library,34,0
+681,d_2dc0c4d34b80879c,water & mold damage at East ES,34,1
+682,d_3a0ce013b6820bc9,electricl damage to speed board,34,2
+683,d_a1c984d075d60e18,power surge damage at substation,34,3
+684,d_38745aa956c81f52,Allis - 10944 - glass,34,4
+685,d_a46a10ac022bf641,Vandalism at Madison Pavilion,34,5
+686,d_ad74e9d6cba95883,power surge at Well #1,34,6
+687,d_4b805a3c5ae38093,mercury contamination,34,7
+688,d_95a83574fc1ab6a9,Mendota - llm 12981 - glass door 4,34,8
+689,d_fa7ae76997cc9dd8,laptop and case stolen,34,9
+690,d_102e3802c0abf2fc,storage shed collapsed,34,10
+691,d_90ab021db4b6db55,Meter socket damaged by vehicle,34,11
+692,d_0cae9158f8b6aa3c,hit and run - dmg to traffic light,34,12
+693,d_a6a54af122301d96,power pole damaged,34,13
+694,d_3de732eb5eff3fa5,sound system damaged at Oaklawn,34,14
+695,d_78a5898f44b2df7f,Grewenow Elementary,34,15
+696,d_a00cb104d5345d52,glass vandalism at Kodciuszko,34,16
+697,d_d6cbe449b5c9f24d,lightning damaged sewage pump,34,17
+698,d_348566856442d3e1,windows broken at Maple Ave ES,34,18
+699,d_762fe2a2cc3e7126,theft of computer & projector from ES,34,19
+700,d_8d2c2e316cb6b24f,lightning damage to systems,35,0
+701,d_2276b210e3dea383,water tower 2 struck by lightning,35,1
+702,d_ac3b587451f65a8c,semi damaged building,35,2
+703,d_8616815125345dc0,wind damage to roof on cattle barn,35,3
+704,d_7684d193b6ec08f0,Jefferson - 12M 000574 - graffiti - dumpster,35,4
+705,d_707f6e82426f40d0,vandalism dmg Sheridan Pool,35,5
+706,d_08f2e9345aaa0710,lightning damage to feed control system,35,6
+707,d_0741eddb03264040,power surge at Municipal Bldg.,35,7
+708,d_62159e95fc954efc,vandalism dmg Lincoln pavilion,35,8
+709,d_47039c10dd420547,vandalism - window broken,35,9
+710,d_d96818f1a93f4263,vandalism to Farlin equipment,35,10
+711,d_10e0bb0131ba5b64,pole vandalized,35,11
+712,d_470ddbaee3563929,lightning damage at ball park,35,12
+713,d_7bcf59f2b093f446,vandalism damage at recycle center,35,13
+714,d_09a204f2fd0ade6c,water damage at health center,35,14
+715,d_04d5ab0cab6a3416,lightning damage at WWTP to HVAC,35,15
+716,d_3304d179ad0a7510,HVAC damaged at library,35,16
+717,d_27e74b3b5ae847e4,water damage at Glendale,35,17
+718,d_2a00029dbf94234d,Lightning damaged fire panel & elevator,35,18
+719,d_fcec2fe0bfa9c3f5,Lightning damage at Mullett Ice Center,35,19
+720,d_eb26d26da029b148,granite wall damaged by floor scrubber,36,0
+721,d_bbd30ccd69b9b547,salt shed damaged,36,1
+722,d_1436df984b0f65fc,sewage spill at tank #2,36,2
+723,d_f1170a555ba31b48,Stephens Work & Learn - laptop,36,3
+724,d_b6cad3d57d2e5a93,Vandalism at Clarke Park,36,4
+725,d_288a58abdc8991b4,vandalism-Veterans Park,36,5
+726,d_68e76ae84f23783c,La Follette - 12M8383 - glass,36,6
+727,d_345273c0c75149a0,vehicle hit light pole,36,7
+728,d_4f755913335559ed,glass vandalism at Hamilton,36,8
+729,d_8f9c20cf234488d2,lightning damage to scale system,36,9
+730,d_e2c4bae3f97d0dc4,power surge to electrical panel/circuits,36,10
+731,d_ffb3e847bd7d36f7,squirrel chewed through electrical feed line,36,11
+732,d_a30519808cacb091,village signs damaged by wind,36,12
+733,d_459d5b305c3e53ad,vandalism dmg Mitchell pavilion,36,13
+734,d_9de830232ed73e62,vandalism damage at Doyne Park,36,14
+735,d_59a18a227783cf96,lightning damage at Sheriff's Dept.,36,15
+736,d_ec31d379e9c11d00,theft of equipment & tools at Lund,36,16
+737,d_27ad2bac2cf16eda,vandalism damage at Wilson Park,36,17
+738,d_d509ddaf2cf6796c,personal prop damaged,36,18
+739,d_42e68ede94580790,lightning damage to Ag Bldg.,36,19
+740,d_2901283235b84d03,vandalism at jackson boat house,37,0
+741,d_958410c34addbee8,broken window in skywalk stairwell,37,1
+742,d_1bc84f887434b466,pellet shots at door glass,37,2
+743,d_9e7bd9c890d71f19,vandalism at library,37,3
+744,d_17b787706627ab03,pipe broke at City Campus - water damage to bldg,37,4
+745,d_b82744f417b6752b,Stage curtains stained by cleaners,37,5
+746,d_34e348b5cdc30ec7,wind damage at Health Center,37,6
+747,d_e6931d2e77385b7a,"water leak in fire hydrant line-wet carpet,clasrms",37,7
+748,d_4bd134a9c3fe9e18,glass vandalism at High School,37,8
+749,d_1b6e263ef3bc80fa,"mold on furniture, instruments, equipment",37,9
+750,d_a33c74aba55909f1,damaged/lost instrument,37,10
+751,d_a9f96d0c79460415,Hail damage to roof of shop/library,37,11
+752,d_b39ec9171f149d86,water damage to electrical system,37,12
+753,d_91977831b4092601,Wind damage to McKinley Radio Bldg,37,13
+754,d_674930943066d950,playground slide has 2 shotgun holes in it,37,14
+755,d_78d3486be967745b,trailer & snowblowers stolen,37,15
+756,d_a22d353fc1b19734,street light pole damage,37,16
+757,d_2741d403735e5f8d,wind damage to fascia,37,17
+758,d_5aa7b154ab8dbbdf,vandalism-GMIA,37,18
+759,d_bb309e0911c2ff54,water damage from storms,37,19
+760,d_89b3aee76351b5a0,vandalism to McAuliffe lighting,38,0
+761,d_8efac033f34347c5,barricade lights stolen,38,1
+762,d_322912ccbb61be71,power surge at Oakdale ES,38,2
+763,d_499a5009bb326489,Traffic signal box struck by lightning,38,3
+764,d_afc1d09d66e8f05b,water damage at FACTv,38,4
+765,d_a9b18bb1fae3002a,lightning damage to controller,38,5
+766,d_cbf1f1983f80a01b,glass vandalism at Chavez ES,38,6
+767,d_7f6e020473ca6a9e,light damage to computer system,38,7
+768,d_4e533e7e31b8ac4b,wired laminated hall door glass broke,38,8
+769,d_878df81169607689,theft of grates,38,9
+770,d_38af65f22eb8dbed,lightning damage to radio,38,10
+771,d_8f4c25dfe8cd7905,overhead door damaged by vehicle,38,11
+772,d_4d885ac36a2c3a12,claimant struck light pole,38,12
+773,d_c203bbc355654004,water damage at Allied Drive,38,13
+774,d_d4e0299b389c408c,garage door dmgd at municipal building,38,14
+775,d_c4e92e647532f740,generator power surge burned out power supplies,38,15
+776,d_542516d5c385fd5e,lightning damage to building,38,16
+777,d_03e17551b46f749c,lightning damaged antennas,38,17
+778,d_6c64f9df2a743cfb,glass panel on elevator broken,38,18
+779,d_c29af4d57365dff0,puncture in hose caused water damage,38,19
+780,d_0dc6d6778d3bfaa8,Falk - 12M669 - pellet gun hole,39,0
+781,d_96b831045a84e470,"golf course control box, stole items",39,1
+782,d_ac0109ddc56460e8,water damage from toilet overflowing,39,2
+783,d_464df3ce6cfdbd05,West HS - llm8670 - vandalism women's restroom,39,3
+784,d_302542b298c0bfcb,power outage - food thawed in freezer,39,4
+785,d_1c9b6766f3403be2,signs stolen at Henschke,39,5
+786,d_3cd1685649ebc033,Pipe leak on computer equipment,39,6
+787,d_02b6933d175f895c,hail damage to roof at Town Hall,39,7
+788,d_a7223f69fdb36c3b,exit light broke from ceiling,39,8
+789,d_1bffdc61d5a2f7a0,storm damage,39,9
+790,d_3d6c85ce0390eec4,laptop damaged at UW campus,39,10
+791,d_6e27e30809488ffc,water damage Hawthorne,39,11
+792,d_adf68ffb9b68bdcf,Storm water damages at various sites,39,12
+793,d_8a62d21fff386aed,glass vandalism at East HS,39,13
+794,d_3d7b9da771680701,water damage to boiler room,39,14
+795,d_0dd7d643ebba2607,light pole damaged at Bosshard Dr,39,15
+796,d_2e5b66cde0ca8410,water damage at Villa Terrace,39,16
+797,d_204f1c5190e63007,vandalism dmg Grant tot lot,39,17
+798,d_d470b1d03809e1b7,Vandalism at Pulaski Park,39,18
+799,d_63e1803f077d8324,tank damaged at Hwy. Dept.,39,19
+800,d_a216dd721790981c,hail damgae to HVAC unit,40,0
+801,d_fc2f1e10c7fc9657,Surface water damaged Sheriff's Dept,40,1
+802,d_2624fdfcdfeddb05,glass vandalism at Orchared,40,2
+803,d_bde71b5d63583ccb,power surge damaged fuses,40,3
+804,d_3852f897962d188e,lightning damage to water tower,40,4
+805,d_acad30121f5371aa,storage building damaged,40,5
+806,d_dcc4e12359f187a8,paint damage to girls restroom 2058,40,6
+807,d_9199148e097aea87,power surge/outage damage,40,7
+808,d_2191a3283ba285b7,theft of sign,40,8
+809,d_1bae6a10efed6cc4,camera damaged,40,9
+810,d_0e9d0d6b781f294f,water damage at Police Dept,40,10
+811,d_3583a4b7e4a5493d,Grobschmidt 2028/115,40,11
+812,d_723df5a0f946f52d,lightning damaged radio transmitters,40,12
+813,d_4136ed0ca5fdbbf7,wind damage to roof at Creamery,40,13
+814,d_f49c67935d882777,glass vandalism at Glendale ES,40,14
+815,d_c89a18320a1de348,vandalism damage High School,40,15
+816,d_263c0c53d09a78fa,Water damage at Holler Park,40,16
+817,d_e2786a0407b76a91,grafitti at Toki,40,17
+818,d_d76438697a75fc0b,lightning damage at Lincoln ES,40,18
+819,d_dee4436efc124dbe,overhead door damaged on salt shed,40,19
+820,d_b5edff3f4928d184,wind and water damage to contents,41,0
+821,d_ba16d9c940a92780,water damage at Allis ES,41,1
+822,d_d5aff90323b8f679,lightning damage at Riverview,41,2
+823,d_30fd23ea330a78e0,graffiti on corner of fieldhouse,41,3
+824,d_9db267a7385fad56,Lafollette - projector stolen,41,4
+825,d_f5259b9e34f657b9,lightning struck elec board in well house #3,41,5
+826,d_3512e474e7b5343a,damage to light pole,41,6
+827,d_cc672628a3e50187,fire & smoke damage at Rock ES,41,7
+828,d_87b0a00484fcf1c5,fence damaged at Riverside Park,41,8
+829,d_fe4d8ad1e22ec997,"Smith 2076-065 Vandalism window, window",41,9
+830,d_82552f937f779bb7,district vehicle backed into building,41,10
+831,d_4f2334203d519091,Wind damaged high school roof,41,11
+832,d_773e6cb401c0832c,trailer damaged by vehicle,41,12
+833,d_852ab5bd70548851,lightning strike to plants electronic control dvs,41,13
+834,d_017f0da775b30bb5,baler panel damaged at MRF,41,14
+835,d_780804ed165d50b2,broken sidelight in Parks Dept/City Hall,41,15
+836,d_437d4ba503f8094c,gym floor buckled,41,16
+837,d_49731a917b5406be,Lightning damage to golf course sprinkler system,41,17
+838,d_2fd7e805f09d79f7,vandalism at Mather Heights,41,18
+839,d_3afcd04f2d90308b,East-12M4982-water damage,41,19
+840,d_3a156ef4d0e2c1d0,theft of radio equiipment,42,0
+841,d_b592a17fe150641e,snow plowing - hit light pole,42,1
+842,d_a07188ed0d8e7e80,vehicle demolished street light pole,42,2
+843,d_b3e62f875a42f99b,vandalism to bleachers,42,3
+844,d_f73e3279edb9edf4,pagers damaged at fire call,42,4
+845,d_793042bea6865631,Boat dock damaged by water,42,5
+846,d_3b420795078b7c11,Wind damaged Community Hall roof,42,6
+847,d_0e30041b679f39d7,theft of computer from Bradford HS,42,7
+848,d_a0a1102ef9a952be,Damage to overhead door,42,8
+849,d_b785585496ffa33f,Fire damage to 124-126 th Ave,42,9
+850,d_90ca2389adb73c52,Fire and smoke damage in elementary room,42,10
+851,d_e7e9e8872be8a132,damage to fiber optic cables at jail,42,11
+852,d_c71cbe8dad4c0d0e,vandalism at Jackson Park,42,12
+853,d_a0df9f1f3597252a,vehicle struck and damaged concrete bollards,42,13
+854,d_6dd64887b9edcf82,attenuator damaged by truck,42,14
+855,d_371981d1477e767a,Tricycle Troll was pushed over,42,15
+856,d_b9a1f3d1cafbba09,water damage at the jail,42,16
+857,d_60a4f10509a4aafe,traffic signal damage,42,17
+858,d_b53bf4473d6bf836,students bumped and damaged light pole,42,18
+859,d_53159fa8f83981d5,water leaked into IT room,42,19
+860,d_e70fc6420987d33f,fire at Langer Park,43,0
+861,d_3cc198da70b5c182,vandalism to playground equipment,43,1
+862,d_bd9f217698400c50,MCCS garage & van burglarized,43,2
+863,d_ba9e028ce21339f9,Gompers - 12M006786 - glass,43,3
+864,d_2e9e227d2a0e5184,lightning damage at Capitol Tower,43,4
+865,d_c971fea0e9abe290,glass vandalism at Doyle Admin Bldg.,43,5
+866,d_b8c94a80621be31c,Fire station #1 garage door damaged,43,6
+867,d_528c3b805bf397b6,wind & hail damage to school,43,7
+868,d_558f4e4224ca8db0,wind damage at Schamon Field,43,8
+869,d_6290a01076a393a8,lightning and wind damage to building,43,9
+870,d_1894de49b7b41f85,vandalism damage at Humboldt,43,10
+871,d_a330b212ae89a599,windscreen fence damaged,43,11
+872,d_2ce82e20d71e0d6b,"wind/hail damaged trees, utility poles, street",43,12
+873,d_c58778a4132ba3f5,laptop damaged in car,43,13
+874,d_4b3714a65608d2b2,fire horn/strobe pulled loose from wall,43,14
+875,d_d2a1d86ab5183e72,broken glass on entry door,43,15
+876,d_39a01adbe083f6c2,laptop #6 damaged,43,16
+877,d_f4d593a2bb0d156c,"water damage to walls, equipment, carpet",43,17
+878,d_8cfa7384979f7c75,fire in storage garage dmgd athletic equipment,43,18
+879,d_4d7653065d2ddbeb,vandalism damage to concession stand,43,19
+880,d_9f2959f0f4dadada,vandalism to Baird's Creek bridge,44,0
+881,d_1b59a30e11cd27c9,vandalism in Little Falls,44,1
+882,d_8b366355da01671f,Lake Park - 2046 - ice dam caused roof damage,44,2
+883,d_dad4accdd127ffd1,Whitehorse - llm010438 - graffiti,44,3
+884,d_e51c70c68510d29b,decking and floats missing,44,4
+885,d_c6d48752318254e3,winds damaged overhead door,44,5
+886,d_70660836b1509621,storm/lightning damage to radio system,44,6
+887,d_ade45fcf9c763254,roof leak from storm damaged printer,44,7
+888,d_89910c8472efdfe1,damages from toilet back up,44,8
+889,d_41abf41fbea70dc6,graffiti carved into stall doors,44,9
+890,d_4f122a6586b1695c,power surge damaged electronic components,44,10
+891,d_88c29e3ece5b3d00,wind damage at OJ Falge Park,44,11
+892,d_6f979ccaff0757e5,fire damage at Buwalda Park,44,12
+893,d_67a021469421ca58,vandalism damage at golf course,44,13
+894,d_0ad655d397b04569,stadium sign damaged,44,14
+895,d_30226300800189fd,fire damage at Police Dept,44,15
+896,d_5c335049eb8ca956,garage door came down on hood of squad car,44,16
+897,d_15ec4df091974fdd,lightning damage to several components,44,17
+898,d_0117a94cc37eb156,Vandalism at Humboldt Park,44,18
+899,d_c1145bbc219c44a0,pipes froze at fire station,44,19
+900,d_778529287beb49e5,o.h. garage door damaged,45,0
+901,d_bd9cde2a1c4fb6af,Lightpole damaged at 27th St,45,1
+902,d_7accb51f943b5c01,vandalism to slide at Intermediate,45,2
+903,d_23ae24f39c9a1fdd,Lightning damage at Lake Station tower,45,3
+904,d_693c54a0a9060301,roof damage at Courthouse,45,4
+905,d_60413912fc74433d,power surge at East Elem,45,5
+906,d_d7f8d126dfaf9560,parking ramp vandalism,45,6
+907,d_6c1594d65bd0ee8b,lightning damage to alarms and controllers,45,7
+908,d_b6fedde8075e3153,glass broken at Frank ES,45,8
+909,d_cd779b5ff6b05360,wind damage to baseball diamonds,45,9
+910,d_f7ec0999c30dc2ab,lightning damage to antenna,45,10
+911,d_b115e0d70bb20aa3,Lightning damaged firehouse refrigerator,45,11
+912,d_a377a2ac62c891e5,graffiti at Greenfield,45,12
+913,d_10472038d2d53a43,wind damage to  storage barn and contents,45,13
+914,d_87f49250673c4ca8,lightning damage at wastewater facility,45,14
+915,d_c512ae67bcad65f8,wind damage to park sign,45,15
+916,d_3074b6c2e0cd3797,vandalism to Perkins hockey rink,45,16
+917,d_4413ccf9f4b638f6,electronics damaged at library,45,17
+918,d_cfbb4692509830ee,vandalism dmg Lindbergh,45,18
+919,d_dfad350a1114ed71,vehicle damaged utility pole on Hwy N,45,19
+920,d_3d0835d9cf175b04,vandalism at Mitchell Pavilion,46,0
+921,d_7780af75dfbc37c2,toilets seats damaged at Leopold,46,1
+922,d_4521bd0c5fab02d1,fire damage to shelter,46,2
+923,d_3e4bd06950ddd047,big outside window broken,46,3
+924,d_449bc5ef2f2f0231,vandalism dmg McGovern Park,46,4
+925,d_a4df1eebe062d9ed,vandalism damage at Algonquin,46,5
+926,d_4a1b413c2712fd8c,water damage at McKenna,46,6
+927,d_82717954953f3e60,power outage at Riverside Pumping Station,46,7
+928,d_369e055a09f69a0b,dump truck slid into and damaged entrance gate,46,8
+929,d_dc64f7f29d65d905,building damaged at Recovery Center,46,9
+930,d_ee4016a8bc72a2b7,Scout Lake 2073-129,46,10
+931,d_9d4ed093494ee234,water damage in HS gym,46,11
+932,d_8d8e6cd0eb306919,water damage at LaGrange ES,46,12
+933,d_618f1ddfff4ebcff,vandalism damage at O'Donnell Garage,46,13
+934,d_4403ceef4b56b537,vandalism at Ridge Run Park,46,14
+935,d_02546dc25696edf7,Lapham-12M288-Graffiti,46,15
+936,d_4363e40ba1bb3062,glass vandalism at Washington MS,46,16
+937,d_9a89bf1fdb4a2545,lightning damage at Hwy Shop,46,17
+938,d_0ea0bc2396a40d6e,LaFollette - llm-011899 - glass,46,18
+939,d_a9b9017de06da9bb,canine teeth broken during certification exercises,46,19
+940,d_389b768fdff3293c,water damage to postage machine,47,0
+941,d_bff57588fa1bde35,lightning damage to generator,47,1
+942,d_582b396bf1e8f0cb,rock behind school tagged w/graffiti,47,2
+943,d_47176b29c77ec8d8,Wind & Tree damage to shelter,47,3
+944,d_bb7aef4a19ce8cf6,billboard vandalized,47,4
+945,d_bbb51bed83b2c3e3,pier damaged at park,47,5
+946,d_945fc2720b361369,lightning damage at wastewater plant,47,6
+947,d_d85f80b961ece8e7,Surveillance video equipment stolen,47,7
+948,d_ed8ecdd36798117f,Lightning damage to phone lines,47,8
+949,d_0e2f3839ec1d9321,laptop damaged,47,9
+950,d_b2d3a8094ad434b0,water damage at service center,47,10
+951,d_bd8cc3009e4c0d8a,wind damage to roof at MS,47,11
+952,d_5e2fabfb851a651c,Water damage at 139 High St.,47,12
+953,d_24e9c111257a59d3,theft of laptop Washington MS,47,13
+954,d_1f7de8dd1273370d,column damage at Maple Hill Cemetery,47,14
+955,d_3a6994f52a8bec65,power outage caused corruption of hardware,47,15
+956,d_0212605c556cc5b5,wind damage to metal roof panels,47,16
+957,d_97ab8e057d82120c,wind damage at O'Donnell Park,47,17
+958,d_3e23839134f8e342,vending machine vandalized,47,18
+959,d_865969aeecc0bb3e,Lindberg 11M-2289 fire ext. glass door broken,47,19
+960,d_162443469d3f7047,Bleachers and fence damaged by winds,48,0
+961,d_3723d24df82002e7,Lightning damaged runway lights,48,1
+962,d_8840ff5595145b31,glass vandalism at Allis ES,48,2
+963,d_370c53b77f18c996,break in & theft at Central ES,48,3
+964,d_127e21f9e3a1e2b8,Stoddard maintenance Plant lightning dmg,48,4
+965,d_b60fb26c8b1a6463,exit door tagged with graffiti,48,5
+966,d_5a92a3cac9a63aa2,fire & smoke damage at Transfer Station,48,6
+967,d_3b6da480b9d696cd,vehicle damaged hydrant,48,7
+968,d_08fe76723793066d,damaged window screen at Sennett School,48,8
+969,d_533c41002cc67e0f,glass breakage,48,9
+970,d_152325884fcfbd63,vehicle damaged signal pole,48,10
+971,d_deed8388d17f393a,vandalism to men's and women's restrooms,48,11
+972,d_b61dec9ce23b0dba,Schenk - 12M-010877 - glass,48,12
+973,d_525724ba0c4cfa47,Light pole -Hit & Run,48,13
+974,d_183ef1037068fb98,lightning damage to motor,48,14
+975,d_4dbb0341b47939d5,High School Metal Shop Area,48,15
+976,d_772c1ab1baff3919,GPS damaged in collision,48,16
+977,d_8fcf45b0731cce52,vehicle damaged decorative ballards,48,17
+978,d_21040ae0b937aba1,plow hit building at hwy shop,48,18
+979,d_10a78fef3b840d79,light pole damaged when struck by boat/trailer,48,19
+980,d_72741168c2ac1be4,glass broke by student,49,0
+981,d_60e1b7c2bb90b766,Well pipe was stolen,49,1
+982,d_7f559264bc85e860,attenuator damaged,49,2
+983,d_d119d6cb53d4d914,lightning damge to phone system equipment,49,3
+984,d_b794cfef5a6a1801,food spoilage due to freezer truck malfunction,49,4
+985,d_60392154bd882884,vandalism to clerks office,49,5
+986,d_d01a3a7bab8643f5,tree fell on backstop and fence,49,6
+987,d_a9236ecd6c256720,glass vandalism at Elver Park,49,7
+988,d_c7325f075b346e72,sign damaged,49,8
+989,d_0bdee49c26448415,Stop sign hit by vehicle,49,9
+990,d_a8b4eaf8f728e135,fire & smoke damage at Admin Office,49,10
+991,d_9c708eebb399d2a7,vandalism at Blackhawk,49,11
+992,d_550de1b017512482,Falk 2022-001,49,12
+993,d_2d0b369f8be9fdfb,wind sprung door causing damage,49,13
+994,d_11e4d2474de56d22,water damage at Blatz Bldg.,49,14
+995,d_e228d8ce8e5650c7,GMIA Terminal Building - sewer pipe break,49,15
+996,d_89b19cdc307014c0,East-12M4258-graffiti purple shed,49,16
+997,d_5ecd62b9adb4bec7,vandalism at Glendale ES,49,17
+998,d_913c30b8ac769154,vandalism damage at North HS,49,18
+999,d_6eba9e0fbcca9b14,pickup hit side of building,49,19

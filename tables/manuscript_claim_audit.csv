@@ -1,0 +1,158 @@
+claim,manuscript_location,computed,displayed,reported,match
+train claims,§3.1,4991,4991,4991,True
+train descriptions,§3.1,3733,3733,3733,True
+train median loss,§3.1,2243.28,"2,243","2,243",True
+train mean loss,§3.1,19297.054259667402,"19,297","19,297",True
+validation claims,§3.1,1039,1039,1039,True
+validation descriptions,§3.1,996,996,996,True
+validation median loss,§3.1,3240.0,"3,240","3,240",True
+validation mean loss,§3.1,21488.372983638114,"21,488","21,488",True
+combined claims,§3.1,6030,6030,6030,True
+combined descriptions,§3.1,4690,4690,4690,True
+combined median loss,§3.1,2392.01,"2,392","2,392",True
+combined mean loss,§3.1,19674.629741293535,"19,675","19,675",True
+baseline validation R2,§3.1,0.339820405841853,0.3398,0.3398,True
+baseline validation MAE,§3.1,1.0694077059044973,1.0694,1.0694,True
+randomized classifications,§3.2,140700,140700,140700,True
+fixed classifications,§3.2,30000,30000,30000,True
+all classifications,§3.2,170700,170700,170700,True
+randomized logical responses,§3.2,7050,7050,7050,True
+fixed logical responses,§3.2,1500,1500,1500,True
+all logical responses,§3.2,8550,8550,8550,True
+fixed descriptions,§3.2,1000,1000,1000,True
+fixed batches,§3.2,50,50,50,True
+augmented regressions,§3.1,30,30,30,True
+GPT-5.6 Sol mean MAE,§4.1; Table 3; SUPPLEMENT.md,0.9905932430953512,0.9906,0.9906,True
+GPT-5.6 Sol MAE SD,§4.1; Table 3; SUPPLEMENT.md,0.013315927372957207,0.0133,0.0133,True
+GPT-5.6 Sol mean R2,§4.1; Table 3; SUPPLEMENT.md,0.4283256254312178,0.4283,0.4283,True
+GPT-5.6 Sol MAE gain percent,§4.1; Table 3; SUPPLEMENT.md,7.369917233061731,7.37,7.37,True
+Gemini 3.1 Pro mean MAE,§4.1; Table 3; SUPPLEMENT.md,0.979436536643506,0.9794,0.9794,True
+Gemini 3.1 Pro MAE SD,§4.1; Table 3; SUPPLEMENT.md,0.0038731256510111094,0.0039,0.0039,True
+Gemini 3.1 Pro mean R2,§4.1; Table 3; SUPPLEMENT.md,0.43559008162338414,0.4356,0.4356,True
+Gemini 3.1 Pro MAE gain percent,§4.1; Table 3; SUPPLEMENT.md,8.41317757149448,8.41,8.41,True
+Kimi K2.6 mean MAE,§4.1; Table 3; SUPPLEMENT.md,1.0037421246111327,1.0037,1.0037,True
+Kimi K2.6 MAE SD,§4.1; Table 3; SUPPLEMENT.md,0.009149719183862426,0.0091,0.0091,True
+Kimi K2.6 mean R2,§4.1; Table 3; SUPPLEMENT.md,0.41003235718105147,0.4100,0.4100,True
+Kimi K2.6 MAE gain percent,§4.1; Table 3; SUPPLEMENT.md,6.140369190422531,6.14,6.14,True
+DeepSeek V4 Pro mean MAE,§4.1; Table 3; SUPPLEMENT.md,1.005016469201007,1.0050,1.0050,True
+DeepSeek V4 Pro MAE SD,§4.1; Table 3; SUPPLEMENT.md,0.005094498695258239,0.0051,0.0051,True
+DeepSeek V4 Pro mean R2,§4.1; Table 3; SUPPLEMENT.md,0.4136854750080401,0.4137,0.4137,True
+DeepSeek V4 Pro MAE gain percent,§4.1; Table 3; SUPPLEMENT.md,6.021205602687147,6.02,6.02,True
+Qwen3.5 397B mean MAE,§4.1; Table 3; SUPPLEMENT.md,1.014297337584809,1.0143,1.0143,True
+Qwen3.5 397B MAE SD,§4.1; Table 3; SUPPLEMENT.md,0.0025619098052837297,0.0026,0.0026,True
+Qwen3.5 397B mean R2,§4.1; Table 3; SUPPLEMENT.md,0.4046013999411011,0.4046,0.4046,True
+Qwen3.5 397B MAE gain percent,§4.1; Table 3; SUPPLEMENT.md,5.153354330196833,5.15,5.15,True
+GLM-5.2 mean MAE,§4.1; Table 3; SUPPLEMENT.md,1.0005797348340824,1.0006,1.0006,True
+GLM-5.2 MAE SD,§4.1; Table 3; SUPPLEMENT.md,0.009518142452512616,0.0095,0.0095,True
+GLM-5.2 mean R2,§4.1; Table 3; SUPPLEMENT.md,0.41509624386237187,0.4151,0.4151,True
+GLM-5.2 MAE gain percent,§4.1; Table 3; SUPPLEMENT.md,6.436083328219542,6.44,6.44,True
+all model mean MAEs improve on baseline,§4.1; Table 3; SUPPLEMENT.md,True,True,True,True
+all MAE bootstrap intervals exclude zero,§4.1; Table 3; SUPPLEMENT.md,True,True,True,True
+GPT-5.6 Sol MAE improvement,§4.1; Table 3; SUPPLEMENT.md,0.07881446280914563,0.0788,0.0788,True
+GPT-5.6 Sol MAE improvement CI low,§4.1; Table 3; SUPPLEMENT.md,0.058274823846194534,0.0583,0.0583,True
+GPT-5.6 Sol MAE improvement CI high,§4.1; Table 3; SUPPLEMENT.md,0.09868401477203598,0.0987,0.0987,True
+Gemini 3.1 Pro MAE improvement,§4.1; Table 3; SUPPLEMENT.md,0.08997116926099077,0.0900,0.0900,True
+Gemini 3.1 Pro MAE improvement CI low,§4.1; Table 3; SUPPLEMENT.md,0.06805943103398207,0.0681,0.0681,True
+Gemini 3.1 Pro MAE improvement CI high,§4.1; Table 3; SUPPLEMENT.md,0.11299633126332172,0.1130,0.1130,True
+Kimi K2.6 MAE improvement,§4.1; Table 3; SUPPLEMENT.md,0.06566558129336411,0.0657,0.0657,True
+Kimi K2.6 MAE improvement CI low,§4.1; Table 3; SUPPLEMENT.md,0.0491983637777764,0.0492,0.0492,True
+Kimi K2.6 MAE improvement CI high,§4.1; Table 3; SUPPLEMENT.md,0.08318921921577008,0.0832,0.0832,True
+DeepSeek V4 Pro MAE improvement,§4.1; Table 3; SUPPLEMENT.md,0.06439123670348966,0.0644,0.0644,True
+DeepSeek V4 Pro MAE improvement CI low,§4.1; Table 3; SUPPLEMENT.md,0.046283395305250496,0.0463,0.0463,True
+DeepSeek V4 Pro MAE improvement CI high,§4.1; Table 3; SUPPLEMENT.md,0.08230453832835892,0.0823,0.0823,True
+Qwen3.5 397B MAE improvement,§4.1; Table 3; SUPPLEMENT.md,0.055110368319688005,0.0551,0.0551,True
+Qwen3.5 397B MAE improvement CI low,§4.1; Table 3; SUPPLEMENT.md,0.03980323834552213,0.0398,0.0398,True
+Qwen3.5 397B MAE improvement CI high,§4.1; Table 3; SUPPLEMENT.md,0.07031523583152191,0.0703,0.0703,True
+GLM-5.2 MAE improvement,§4.1; Table 3; SUPPLEMENT.md,0.0688279710704144,0.0688,0.0688,True
+GLM-5.2 MAE improvement CI low,§4.1; Table 3; SUPPLEMENT.md,0.05086649439124664,0.0509,0.0509,True
+GLM-5.2 MAE improvement CI high,§4.1; Table 3; SUPPLEMENT.md,0.08684323863451499,0.0868,0.0868,True
+GPT-5.6 Sol fixed-batch distance,SUPPLEMENT.md: variation diagnostics,0.13419999999999999,0.1342,0.1342,True
+GPT-5.6 Sol randomized-batch distance,SUPPLEMENT.md: variation diagnostics,0.2796,0.2796,0.2796,True
+Gemini 3.1 Pro fixed-batch distance,SUPPLEMENT.md: variation diagnostics,0.08180000000000001,0.0818,0.0818,True
+Gemini 3.1 Pro randomized-batch distance,SUPPLEMENT.md: variation diagnostics,0.2574,0.2574,0.2574,True
+Kimi K2.6 fixed-batch distance,SUPPLEMENT.md: variation diagnostics,0.1182,0.1182,0.1182,True
+Kimi K2.6 randomized-batch distance,SUPPLEMENT.md: variation diagnostics,0.2984,0.2984,0.2984,True
+DeepSeek V4 Pro fixed-batch distance,SUPPLEMENT.md: variation diagnostics,0.1134,0.1134,0.1134,True
+DeepSeek V4 Pro randomized-batch distance,SUPPLEMENT.md: variation diagnostics,0.3416,0.3416,0.3416,True
+Qwen3.5 397B fixed-batch distance,SUPPLEMENT.md: variation diagnostics,0.056600000000000004,0.0566,0.0566,True
+Qwen3.5 397B randomized-batch distance,SUPPLEMENT.md: variation diagnostics,0.35040000000000004,0.3504,0.3504,True
+GLM-5.2 fixed-batch distance,SUPPLEMENT.md: variation diagnostics,0.1284,0.1284,0.1284,True
+GLM-5.2 randomized-batch distance,SUPPLEMENT.md: variation diagnostics,0.32180000000000003,0.3218,0.3218,True
+Fixed-batch rerun distance,SUPPLEMENT.md: variation diagnostics,0.10543333333333334,0.105,0.105,True
+Fixed-batch rerun CI low,SUPPLEMENT.md: variation diagnostics,0.10006500000000002,0.100,0.100,True
+Fixed-batch rerun CI high,SUPPLEMENT.md: variation diagnostics,0.11170166666666666,0.112,0.112,True
+Fixed-batch rerun relative distance,SUPPLEMENT.md: variation diagnostics,1.0,1.0,1.0,True
+Randomized-batch operation distance,SUPPLEMENT.md: variation diagnostics,0.3082,0.308,0.308,True
+Randomized-batch operation CI low,SUPPLEMENT.md: variation diagnostics,0.2998633333333333,0.300,0.300,True
+Randomized-batch operation CI high,SUPPLEMENT.md: variation diagnostics,0.3171666666666667,0.317,0.317,True
+Randomized-batch operation relative distance,SUPPLEMENT.md: variation diagnostics,2.9231742017072397,2.9,2.9,True
+"Model change, fixed batch distance",SUPPLEMENT.md: variation diagnostics,0.3544986666666667,0.354,0.354,True
+"Model change, fixed batch CI low",SUPPLEMENT.md: variation diagnostics,0.3420594,0.342,0.342,True
+"Model change, fixed batch CI high",SUPPLEMENT.md: variation diagnostics,0.3666575999999999,0.367,0.367,True
+"Model change, fixed batch relative distance",SUPPLEMENT.md: variation diagnostics,3.3623016123932974,3.4,3.4,True
+fixed-vs-randomized modal disagreement minimum,SUPPLEMENT.md: variation diagnostics,16.900000000000002,16.9,16.9,True
+fixed-vs-randomized modal disagreement maximum,SUPPLEMENT.md: variation diagnostics,21.9,21.9,21.9,True
+fixed-vs-randomized shifts of two-plus are rare,SUPPLEMENT.md: variation diagnostics,True,True,True,True
+0.5% tolerance pair count,SUPPLEMENT.md: full-description agreement,3,3,3,True
+0.5% tolerance disagreement minimum,SUPPLEMENT.md: full-description agreement,19.936034115138593,19.9,19.9,True
+0.5% tolerance disagreement median,SUPPLEMENT.md: full-description agreement,23.30490405117271,23.3,23.3,True
+0.5% tolerance disagreement maximum,SUPPLEMENT.md: full-description agreement,23.90191897654584,23.9,23.9,True
+1.0% tolerance pair count,SUPPLEMENT.md: full-description agreement,6,6,6,True
+1.0% tolerance disagreement minimum,SUPPLEMENT.md: full-description agreement,19.936034115138593,19.9,19.9,True
+1.0% tolerance disagreement median,SUPPLEMENT.md: full-description agreement,21.918976545842217,21.9,21.9,True
+1.0% tolerance disagreement maximum,SUPPLEMENT.md: full-description agreement,24.712153518123667,24.7,24.7,True
+2.0% tolerance pair count,SUPPLEMENT.md: full-description agreement,11,11,11,True
+2.0% tolerance disagreement minimum,SUPPLEMENT.md: full-description agreement,19.936034115138593,19.9,19.9,True
+2.0% tolerance disagreement median,SUPPLEMENT.md: full-description agreement,23.90191897654584,23.9,23.9,True
+2.0% tolerance disagreement maximum,SUPPLEMENT.md: full-description agreement,40.8955223880597,40.9,40.9,True
+Kimi K2.6 vs DeepSeek V4 Pro MAE difference percent,SUPPLEMENT.md: full-description agreement,0.11916358773537904,0.12,0.12,True
+Kimi K2.6 vs DeepSeek V4 Pro disagreement percent,SUPPLEMENT.md: full-description agreement,19.936034115138593,19.9,19.9,True
+Kimi K2.6 vs GLM-5.2 MAE difference percent,SUPPLEMENT.md: full-description agreement,0.295714137797013,0.30,0.30,True
+Kimi K2.6 vs GLM-5.2 disagreement percent,SUPPLEMENT.md: full-description agreement,23.90191897654584,23.9,23.9,True
+DeepSeek V4 Pro vs Qwen3.5 397B MAE difference percent,SUPPLEMENT.md: full-description agreement,0.86785127249034,0.87,0.87,True
+DeepSeek V4 Pro vs Qwen3.5 397B disagreement percent,SUPPLEMENT.md: full-description agreement,24.712153518123667,24.7,24.7,True
+GPT-5.6 Sol vs GLM-5.2 MAE difference percent,SUPPLEMENT.md: full-description agreement,0.9338339048421777,0.93,0.93,True
+GPT-5.6 Sol vs GLM-5.2 disagreement percent,SUPPLEMENT.md: full-description agreement,20.533049040511727,20.5,20.5,True
+pairwise disagreement minimum,SUPPLEMENT.md: full-description agreement,19.93603411513859,19.9,19.9,True
+pairwise disagreement maximum,SUPPLEMENT.md: full-description agreement,40.8955223880597,40.9,40.9,True
+weighted kappa minimum,SUPPLEMENT.md: full-description agreement,0.6652265305473994,0.67,0.67,True
+weighted kappa maximum,SUPPLEMENT.md: full-description agreement,0.788011005546846,0.79,0.79,True
+Gemini 3.1 Pro negligible share percent,§4.3; Figure 2; SUPPLEMENT.md,17.761194029850746,17.8,17.8,True
+GPT-5.6 Sol negligible share percent,§4.3; Figure 2; SUPPLEMENT.md,1.6631130063965887,1.7,1.7,True
+GLM-5.2 negligible share percent,§4.3; Figure 2; SUPPLEMENT.md,1.4285714285714286,1.4,1.4,True
+Qwen3.5 397B low share percent,§4.3; Figure 2; SUPPLEMENT.md,52.79317697228145,52.8,52.8,True
+GPT-5.6 Sol low share percent,§4.3; Figure 2; SUPPLEMENT.md,38.656716417910445,38.7,38.7,True
+Qwen3.5 397B high share percent,§4.3; Figure 2; SUPPLEMENT.md,4.136460554371002,4.1,4.1,True
+GPT-5.6 Sol high share percent,§4.3; Figure 2; SUPPLEMENT.md,11.556503198294244,11.6,11.6,True
+Qwen catastrophic descriptions,§4.3; Figure 2; SUPPLEMENT.md,0,0,0,True
+low median-loss minimum,§4.3; Figure 2; SUPPLEMENT.md,732.51,733,733,True
+low median-loss maximum,§4.3; Figure 2; SUPPLEMENT.md,1494.04,"1,494","1,494",True
+medium median-loss minimum,§4.3; Figure 2; SUPPLEMENT.md,3850.065,"3,850","3,850",True
+medium median-loss maximum,§4.3; Figure 2; SUPPLEMENT.md,5726.389999999999,"5,726","5,726",True
+high median-loss minimum,§4.3; Figure 2; SUPPLEMENT.md,9295.97,"9,296","9,296",True
+high median-loss maximum,§4.3; Figure 2; SUPPLEMENT.md,14248.8,"14,249","14,249",True
+strict stable-disagreement descriptions,§4.3; Figure 2; SUPPLEMENT.md,11,11,11,True
+strict stable-disagreement share percent,§4.3; Figure 2; SUPPLEMENT.md,0.2345415778251599,0.23,0.23,True
+jointly stable share minimum percent,§4.3; Figure 2; SUPPLEMENT.md,47.292110874200425,47.3,47.3,True
+jointly stable share maximum percent,§4.3; Figure 2; SUPPLEMENT.md,57.931769722814494,57.9,57.9,True
+stable-pair disagreement minimum percent,§4.3; Figure 2; SUPPLEMENT.md,7.132075471698113,7.1,7.1,True
+stable-pair disagreement maximum percent,§4.3; Figure 2; SUPPLEMENT.md,35.93283582089552,35.9,35.9,True
+aggregate stable-pair disagreement percent,§4.3; Figure 2; SUPPLEMENT.md,17.399219079780497,17.4,17.4,True
+adjacent share among stable disagreements percent,§4.3; Figure 2; SUPPLEMENT.md,99.71190295678545,99.7,99.7,True
+two-plus share among stable disagreements percent,§4.3; Figure 2; SUPPLEMENT.md,0.2880970432145565,0.3,0.3,True
+example loss: power outage at Riverside Pumping Station,§4.3; Figure 2; SUPPLEMENT.md,50303.11,"50,303","50,303",True
+example mapping A: power outage at Riverside Pumping Station,§4.3; Figure 2; SUPPLEMENT.md,True,True,True,True
+example mapping B: power outage at Riverside Pumping Station,§4.3; Figure 2; SUPPLEMENT.md,True,True,True,True
+example loss: surveillance system missing,§4.3; Figure 2; SUPPLEMENT.md,13905.0,"13,905","13,905",True
+example mapping A: surveillance system missing,§4.3; Figure 2; SUPPLEMENT.md,True,True,True,True
+example mapping B: surveillance system missing,§4.3; Figure 2; SUPPLEMENT.md,True,True,True,True
+"example loss: winter glove flushed, got caught in grinder pipe",§4.3; Figure 2; SUPPLEMENT.md,4118.0,"4,118","4,118",True
+"example mapping A: winter glove flushed, got caught in grinder pipe",§4.3; Figure 2; SUPPLEMENT.md,True,True,True,True
+"example mapping B: winter glove flushed, got caught in grinder pipe",§4.3; Figure 2; SUPPLEMENT.md,True,True,True,True
+example loss: power surge damaged projector,§4.3; Figure 2; SUPPLEMENT.md,956.99,957,957,True
+example mapping A: power surge damaged projector,§4.3; Figure 2; SUPPLEMENT.md,True,True,True,True
+example mapping B: power surge damaged projector,§4.3; Figure 2; SUPPLEMENT.md,True,True,True,True
+study figure exists: variation_decomposition_color,§4.3; Figure 2; SUPPLEMENT.md,True,True,True,True
+study figure exists: pairwise_disagreement_color,§4.3; Figure 2; SUPPLEMENT.md,True,True,True,True
+study figure exists: severity_mapping_color,§4.3; Figure 2; SUPPLEMENT.md,True,True,True,True
+study figure exists: empirical_loss_boundaries_color,§4.3; Figure 2; SUPPLEMENT.md,True,True,True,True

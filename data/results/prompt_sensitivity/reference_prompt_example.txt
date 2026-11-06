@@ -1,0 +1,22 @@
+The following are descriptions of 20 property insurance incidents:
+1. glass vandalism at Toki MS
+2. vandalism at Lemonweir
+3. West -12M5534 - glass
+4. wind damage to roof of school
+5. vandalism at Sheridan Park
+6. lightning damaged printer at PD
+7. water damage to Middle School & Dean Elem
+8. Pistol range replacement, demolition and rebuild
+9. Memorial - llm009735 - water damage
+10. glass vandalism at Roosevelt ES
+11. fire hydrant damaged 91st St
+12. water damage at VHE pool
+13. vehicle demolished street light pole
+14. vandalism damage to equipment
+15. Public Works building damaged by truck
+16. West - llm-9816 - batting cage
+17. exit door lights damaged at Hwy Dept
+18. garage door damaged
+19. wind damage to door on pole building
+20. Water Tower antenna
+You are an actuarial assistant assigned to classify these insurance incidents into one of five categories: negligible, low, medium, high, catastrophic. Return a JSON object with a labels array containing exactly 20 classification names in the same order. Do not include explanations.

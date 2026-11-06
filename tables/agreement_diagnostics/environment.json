@@ -1,0 +1,12 @@
+{
+  "python": "3.12.0",
+  "numpy": "2.4.3",
+  "pandas": "2.3.3",
+  "scipy": "1.17.1",
+  "sklearn": "1.8.0",
+  "matplotlib": "3.10.8",
+  "bootstrap_replicates": 2000,
+  "bootstrap_seed": 20261105,
+  "fixed_input_bootstrap_seed": 20261106,
+  "fixed_input_bootstrap_unit": "20-description batch"
+}

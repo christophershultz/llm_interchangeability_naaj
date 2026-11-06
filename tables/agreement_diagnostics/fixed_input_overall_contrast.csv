@@ -1,0 +1,2 @@
+comparison,quadratic_kappa,quadratic_kappa_lo,quadratic_kappa_hi,exact_agreement,exact_agreement_lo,exact_agreement_hi,mean_ordinal_distance,mean_ordinal_distance_lo,mean_ordinal_distance_hi,distance_ratio,distance_ratio_lo,distance_ratio_hi
+Between minus within,-0.2116838998275462,-0.22791944658831542,-0.19617464899855808,-0.24119333333333315,-0.25721286666666643,-0.22591093333333276,0.24906533333333325,0.23313043333333333,0.26585436666666684,3.3623016123932965,3.087480384660075,3.6825960733924137

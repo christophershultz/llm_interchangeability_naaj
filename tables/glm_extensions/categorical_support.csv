@@ -1,0 +1,151 @@
+model,run,level,label,train_claims,validation_claims,estimated,reference,parameters
+GPT-5.6 Sol,1,1,negligible,97,36,True,True,13
+GPT-5.6 Sol,1,2,low,1910,349,True,False,13
+GPT-5.6 Sol,1,3,medium,2427,493,True,False,13
+GPT-5.6 Sol,1,4,high,554,158,True,False,13
+GPT-5.6 Sol,1,5,catastrophic,3,3,True,False,13
+GPT-5.6 Sol,2,1,negligible,109,28,True,True,13
+GPT-5.6 Sol,2,2,low,1908,361,True,False,13
+GPT-5.6 Sol,2,3,medium,2389,477,True,False,13
+GPT-5.6 Sol,2,4,high,580,171,True,False,13
+GPT-5.6 Sol,2,5,catastrophic,5,2,True,False,13
+GPT-5.6 Sol,3,1,negligible,101,27,True,True,13
+GPT-5.6 Sol,3,2,low,1854,361,True,False,13
+GPT-5.6 Sol,3,3,medium,2496,497,True,False,13
+GPT-5.6 Sol,3,4,high,537,150,True,False,13
+GPT-5.6 Sol,3,5,catastrophic,3,4,True,False,13
+GPT-5.6 Sol,4,1,negligible,114,32,True,True,13
+GPT-5.6 Sol,4,2,low,1897,348,True,False,13
+GPT-5.6 Sol,4,3,medium,2343,485,True,False,13
+GPT-5.6 Sol,4,4,high,634,171,True,False,13
+GPT-5.6 Sol,4,5,catastrophic,3,3,True,False,13
+GPT-5.6 Sol,5,1,negligible,84,31,True,True,13
+GPT-5.6 Sol,5,2,low,1848,368,True,False,13
+GPT-5.6 Sol,5,3,medium,2530,472,True,False,13
+GPT-5.6 Sol,5,4,high,527,164,True,False,13
+GPT-5.6 Sol,5,5,catastrophic,2,4,True,False,13
+Gemini 3.1 Pro,1,1,negligible,714,212,True,True,13
+Gemini 3.1 Pro,1,2,low,2282,377,True,False,13
+Gemini 3.1 Pro,1,3,medium,1512,321,True,False,13
+Gemini 3.1 Pro,1,4,high,465,125,True,False,13
+Gemini 3.1 Pro,1,5,catastrophic,18,4,True,False,13
+Gemini 3.1 Pro,2,1,negligible,798,233,True,True,13
+Gemini 3.1 Pro,2,2,low,2263,370,True,False,13
+Gemini 3.1 Pro,2,3,medium,1487,312,True,False,13
+Gemini 3.1 Pro,2,4,high,432,118,True,False,13
+Gemini 3.1 Pro,2,5,catastrophic,11,6,True,False,13
+Gemini 3.1 Pro,3,1,negligible,751,221,True,True,13
+Gemini 3.1 Pro,3,2,low,2272,374,True,False,13
+Gemini 3.1 Pro,3,3,medium,1544,323,True,False,13
+Gemini 3.1 Pro,3,4,high,413,117,True,False,13
+Gemini 3.1 Pro,3,5,catastrophic,11,4,True,False,13
+Gemini 3.1 Pro,4,1,negligible,755,218,True,True,13
+Gemini 3.1 Pro,4,2,low,2261,388,True,False,13
+Gemini 3.1 Pro,4,3,medium,1495,294,True,False,13
+Gemini 3.1 Pro,4,4,high,469,133,True,False,13
+Gemini 3.1 Pro,4,5,catastrophic,11,6,True,False,13
+Gemini 3.1 Pro,5,1,negligible,791,227,True,True,13
+Gemini 3.1 Pro,5,2,low,2216,376,True,False,13
+Gemini 3.1 Pro,5,3,medium,1529,318,True,False,13
+Gemini 3.1 Pro,5,4,high,438,112,True,False,13
+Gemini 3.1 Pro,5,5,catastrophic,17,6,True,False,13
+Kimi K2.6,1,1,negligible,339,81,True,True,13
+Kimi K2.6,1,2,low,2359,439,True,False,13
+Kimi K2.6,1,3,medium,2073,437,True,False,13
+Kimi K2.6,1,4,high,213,76,True,False,13
+Kimi K2.6,1,5,catastrophic,7,6,True,False,13
+Kimi K2.6,2,1,negligible,267,90,True,True,13
+Kimi K2.6,2,2,low,2702,429,True,False,13
+Kimi K2.6,2,3,medium,1815,451,True,False,13
+Kimi K2.6,2,4,high,196,63,True,False,13
+Kimi K2.6,2,5,catastrophic,11,6,True,False,13
+Kimi K2.6,3,1,negligible,249,98,True,True,13
+Kimi K2.6,3,2,low,2513,435,True,False,13
+Kimi K2.6,3,3,medium,2017,437,True,False,13
+Kimi K2.6,3,4,high,205,63,True,False,13
+Kimi K2.6,3,5,catastrophic,7,6,True,False,13
+Kimi K2.6,4,1,negligible,230,89,True,True,13
+Kimi K2.6,4,2,low,2505,422,True,False,13
+Kimi K2.6,4,3,medium,2042,449,True,False,13
+Kimi K2.6,4,4,high,205,75,True,False,13
+Kimi K2.6,4,5,catastrophic,9,4,True,False,13
+Kimi K2.6,5,1,negligible,248,82,True,True,13
+Kimi K2.6,5,2,low,2515,458,True,False,13
+Kimi K2.6,5,3,medium,2010,427,True,False,13
+Kimi K2.6,5,4,high,212,65,True,False,13
+Kimi K2.6,5,5,catastrophic,6,7,True,False,13
+DeepSeek V4 Pro,1,1,negligible,241,100,True,True,13
+DeepSeek V4 Pro,1,2,low,2256,408,True,False,13
+DeepSeek V4 Pro,1,3,medium,2029,408,True,False,13
+DeepSeek V4 Pro,1,4,high,460,119,True,False,13
+DeepSeek V4 Pro,1,5,catastrophic,5,4,True,False,13
+DeepSeek V4 Pro,2,1,negligible,241,113,True,True,13
+DeepSeek V4 Pro,2,2,low,2350,397,True,False,13
+DeepSeek V4 Pro,2,3,medium,1961,407,True,False,13
+DeepSeek V4 Pro,2,4,high,428,116,True,False,13
+DeepSeek V4 Pro,2,5,catastrophic,11,6,True,False,13
+DeepSeek V4 Pro,3,1,negligible,234,94,True,True,13
+DeepSeek V4 Pro,3,2,low,2367,410,True,False,13
+DeepSeek V4 Pro,3,3,medium,1953,422,True,False,13
+DeepSeek V4 Pro,3,4,high,427,108,True,False,13
+DeepSeek V4 Pro,3,5,catastrophic,10,5,True,False,13
+DeepSeek V4 Pro,4,1,negligible,238,99,True,True,13
+DeepSeek V4 Pro,4,2,low,2262,420,True,False,13
+DeepSeek V4 Pro,4,3,medium,1997,396,True,False,13
+DeepSeek V4 Pro,4,4,high,483,117,True,False,13
+DeepSeek V4 Pro,4,5,catastrophic,11,7,True,False,13
+DeepSeek V4 Pro,5,1,negligible,219,96,True,True,13
+DeepSeek V4 Pro,5,2,low,2395,425,True,False,13
+DeepSeek V4 Pro,5,3,medium,1940,408,True,False,13
+DeepSeek V4 Pro,5,4,high,426,105,True,False,13
+DeepSeek V4 Pro,5,5,catastrophic,11,5,True,False,13
+Qwen3.5 397B,1,1,negligible,342,101,True,True,13
+Qwen3.5 397B,1,2,low,2736,481,True,False,13
+Qwen3.5 397B,1,3,medium,1709,382,True,False,13
+Qwen3.5 397B,1,4,high,203,75,True,False,13
+Qwen3.5 397B,1,5,catastrophic,1,0,True,False,13
+Qwen3.5 397B,2,1,negligible,323,114,True,True,12
+Qwen3.5 397B,2,2,low,2794,442,True,False,12
+Qwen3.5 397B,2,3,medium,1687,412,True,False,12
+Qwen3.5 397B,2,4,high,187,71,True,False,12
+Qwen3.5 397B,2,5,catastrophic,0,0,False,False,12
+Qwen3.5 397B,3,1,negligible,353,102,True,True,13
+Qwen3.5 397B,3,2,low,2681,449,True,False,13
+Qwen3.5 397B,3,3,medium,1752,418,True,False,13
+Qwen3.5 397B,3,4,high,201,68,True,False,13
+Qwen3.5 397B,3,5,catastrophic,4,2,True,False,13
+Qwen3.5 397B,4,1,negligible,358,103,True,True,13
+Qwen3.5 397B,4,2,low,2673,486,True,False,13
+Qwen3.5 397B,4,3,medium,1773,381,True,False,13
+Qwen3.5 397B,4,4,high,186,69,True,False,13
+Qwen3.5 397B,4,5,catastrophic,1,0,True,False,13
+Qwen3.5 397B,5,1,negligible,370,102,True,True,13
+Qwen3.5 397B,5,2,low,2714,458,True,False,13
+Qwen3.5 397B,5,3,medium,1713,413,True,False,13
+Qwen3.5 397B,5,4,high,192,66,True,False,13
+Qwen3.5 397B,5,5,catastrophic,2,0,True,False,13
+GLM-5.2,1,1,negligible,83,25,True,True,13
+GLM-5.2,1,2,low,2060,419,True,False,13
+GLM-5.2,1,3,medium,2364,436,True,False,13
+GLM-5.2,1,4,high,475,154,True,False,13
+GLM-5.2,1,5,catastrophic,9,5,True,False,13
+GLM-5.2,2,1,negligible,96,26,True,True,13
+GLM-5.2,2,2,low,2139,414,True,False,13
+GLM-5.2,2,3,medium,2275,443,True,False,13
+GLM-5.2,2,4,high,472,150,True,False,13
+GLM-5.2,2,5,catastrophic,9,6,True,False,13
+GLM-5.2,3,1,negligible,81,27,True,True,13
+GLM-5.2,3,2,low,2111,426,True,False,13
+GLM-5.2,3,3,medium,2293,435,True,False,13
+GLM-5.2,3,4,high,493,147,True,False,13
+GLM-5.2,3,5,catastrophic,13,4,True,False,13
+GLM-5.2,4,1,negligible,84,20,True,True,13
+GLM-5.2,4,2,low,2073,419,True,False,13
+GLM-5.2,4,3,medium,2322,453,True,False,13
+GLM-5.2,4,4,high,499,141,True,False,13
+GLM-5.2,4,5,catastrophic,13,6,True,False,13
+GLM-5.2,5,1,negligible,77,23,True,True,13
+GLM-5.2,5,2,low,2018,435,True,False,13
+GLM-5.2,5,3,medium,2391,429,True,False,13
+GLM-5.2,5,4,high,491,148,True,False,13
+GLM-5.2,5,5,catastrophic,14,4,True,False,13

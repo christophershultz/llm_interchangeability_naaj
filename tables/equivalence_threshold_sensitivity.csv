@@ -1,0 +1,4 @@
+threshold_pct_baseline_mae,equivalent_pairs,total_pairs,equivalent_pair_share,min_disagreement_rate,median_disagreement_rate,max_disagreement_rate,equivalent_model_pairs
+0.5,3,15,0.2,0.19936034115138593,0.2330490405117271,0.2390191897654584,Kimi K2.6 | DeepSeek V4 Pro; Kimi K2.6 | GLM-5.2; DeepSeek V4 Pro | GLM-5.2
+1.0,6,15,0.4,0.19936034115138593,0.21918976545842217,0.24712153518123667,GPT-5.6 Sol | GLM-5.2; Kimi K2.6 | DeepSeek V4 Pro; Kimi K2.6 | Qwen3.5 397B; Kimi K2.6 | GLM-5.2; DeepSeek V4 Pro | Qwen3.5 397B; DeepSeek V4 Pro | GLM-5.2
+2.0,11,15,0.7333333333333333,0.19936034115138593,0.2390191897654584,0.408955223880597,GPT-5.6 Sol | Gemini 3.1 Pro; GPT-5.6 Sol | Kimi K2.6; GPT-5.6 Sol | DeepSeek V4 Pro; GPT-5.6 Sol | GLM-5.2; Gemini 3.1 Pro | GLM-5.2; Kimi K2.6 | DeepSeek V4 Pro; Kimi K2.6 | Qwen3.5 397B; Kimi K2.6 | GLM-5.2; DeepSeek V4 Pro | Qwen3.5 397B; DeepSeek V4 Pro | GLM-5.2; Qwen3.5 397B | GLM-5.2

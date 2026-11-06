@@ -1,0 +1,7 @@
+model,provider,returned_model,classifications,runs
+DeepSeek V4 Pro,DeepInfra,deepseek-ai/DeepSeek-V4-Pro,23450,5
+GLM-5.2,DeepInfra,zai-org/GLM-5.2,23450,5
+GPT-5.6 Sol,OpenAI,gpt-5.6-sol,23450,5
+Gemini 3.1 Pro,Google,gemini-3.1-pro-preview,23450,5
+Kimi K2.6,DeepInfra,moonshotai/Kimi-K2.6,23450,5
+Qwen3.5 397B,DeepInfra,Qwen/Qwen3.5-397B-A17B,23450,5

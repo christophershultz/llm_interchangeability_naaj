@@ -1,0 +1,6 @@
+level,label,lower_exclusive,upper_inclusive
+1,negligible,0.0,561.94
+2,low,561.94,1500.0
+3,medium,1500.0,3346.0
+4,high,3346.0,9002.77
+5,catastrophic,9002.77,inf
