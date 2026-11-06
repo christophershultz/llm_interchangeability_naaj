@@ -2,6 +2,8 @@
 
 Code, data, figures, and manuscript sources for *Large Language Model Interchangeability in Actuarial Feature Engineering*. All required inputs are stored locally; no submission archives are needed.
 
+Public reproducibility repository: [christophershultz/llm_interchangeability_naaj](https://github.com/christophershultz/llm_interchangeability_naaj).
+
 ## Contents
 
 - `s0_get_data.ipynb`: verifies the public claim files, prepares the data, and reproduces the peril-only baseline.

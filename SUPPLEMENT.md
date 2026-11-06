@@ -1,6 +1,6 @@
 # Repository supplement
 
-The manuscript contains one primary appendix with the reviewer-critical results. This guide identifies the complete supporting material retained in the reproducibility repository. It adds no new analyses or observations. All tables below are machine-readable CSV files; the notebooks document definitions, sampling, uncertainty, and limitations.
+The manuscript contains one primary appendix with the reviewer-critical results. This guide identifies the complete supporting material retained in the [reproducibility repository](https://github.com/christophershultz/llm_interchangeability_naaj). It adds no new analyses or observations. All tables below are machine-readable CSV files; the notebooks document definitions, sampling, uncertainty, and limitations.
 
 ## Primary appendix
 
@@ -25,6 +25,6 @@ The seven sections retain all 30 numeric severity coefficients and standard erro
 
 ## Reproduction and interpretation
 
-Follow [README.md](README.md) to execute the cached analyses. Notebooks 3–5 can run independently without API requests. Complete manifests in their respective `tables/` directories identify frozen inputs and generated outputs. Rerunning the notebooks preserves the compact primary appendix; complete numeric outputs remain here.
+Follow [README.md](README.md) to execute the cached analyses and build the paper. Notebooks 3–5 can run independently without API requests. Complete manifests in their respective `tables/` directories identify frozen inputs and generated outputs. Rerunning the notebooks preserves the compact primary appendix; complete numeric outputs remain here.
 
 Confidence intervals condition on the saved inference outputs and the resampling units specified in each notebook. The main-study MAE tolerance and the later prompt experiment's context-sensitivity benchmark are illustrative analysis rules; they were not pre-specified for the original experiment. Agreement is not semantic accuracy, and retrospective prediction/routing comparisons do not validate a live claims workflow.
